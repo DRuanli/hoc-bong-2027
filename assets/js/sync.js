@@ -107,21 +107,43 @@ export async function readRemote(cfg = getConfig()) {
   } catch (e) {
     if (e.status === 404) {
       // 404 is either "file missing" (fine) or "repo missing" (not fine): tell them apart.
-      const ok = await repoExists(cfg);
-      if (ok) return { data: null, sha: null };
+      const info = await repoInfo(cfg);
+      if (info.data) return { data: null, sha: null };
     }
     throw e;
   }
 }
 
-async function repoExists(cfg) {
+/** Repository metadata: { status, data } (data is null when the token cannot see the repo). */
+async function repoInfo(cfg) {
   try {
     const res = await fetch(`${API}/repos/${encodeURIComponent(cfg.owner)}/${encodeURIComponent(cfg.repo)}`, {
       cache: "no-store",
       headers: { Accept: "application/vnd.github+json", Authorization: `Bearer ${cfg.token}`, "X-GitHub-Api-Version": "2022-11-28" },
     });
-    return res.ok;
-  } catch (e) { return false; }
+    let body = null;
+    try { body = await res.json(); } catch (e) { body = null; }
+    return { status: res.status, data: res.ok ? body : null, body };
+  } catch (e) { return { status: 0, data: null, body: null }; }
+}
+
+const PUBLIC_MSG = "Repo dữ liệu đang ở chế độ công khai (Public), nên app không ghi dữ liệu cá nhân vào đó. Vào Settings của repo, mục Danger Zone, chọn Change repository visibility, đặt Private rồi đồng bộ lại.";
+
+/** Refuse to write personal data into a repository anyone can read. */
+async function assertPrivate(cfg) {
+  const info = await repoInfo(cfg);
+  if (!info.data) {
+    const err = new Error(info.status === 0 ? "Không kết nối được tới GitHub. Kiểm tra mạng rồi thử lại."
+      : info.status === 404 ? "Không thấy repo dữ liệu. Kiểm tra tên tài khoản, tên repo và token đã được cấp quyền cho repo đó chưa."
+      : explain(info.status, info.body));
+    err.status = info.status;
+    throw err;
+  }
+  if (info.data.private === false) {
+    const err = new Error(PUBLIC_MSG);
+    err.status = 451;
+    throw err;
+  }
 }
 
 async function writeRemote(cfg, data, sha, message) {
@@ -155,6 +177,7 @@ export async function syncNow(opts = {}) {
     const cfg = getConfig();
     setState({ status: "busy", message: "Đang đồng bộ…" });
     try {
+      await assertPrivate(cfg);
       for (let attempt = 0; attempt < 3; attempt++) {
         const remote = await readRemote(cfg);
         const merged = remote.data ? mergeUser(store.user, remote.data) : store.user;
@@ -197,6 +220,7 @@ function stripVolatile(u) {
 /** Test the connection without writing anything. */
 export async function testConnection(cfg) {
   try {
+    await assertPrivate(cfg);
     const r = await readRemote(cfg);
     return { ok: true, message: r.data ? "Kết nối được. Đã thấy file dữ liệu trên GitHub." : "Kết nối được. File dữ liệu chưa có, lần đồng bộ đầu sẽ tạo file." };
   } catch (e) {
