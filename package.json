@@ -1,0 +1,11 @@
+{
+  "name": "hoc-bong-2027",
+  "private": true,
+  "type": "module",
+  "description": "Sổ theo dõi học bổng thạc sĩ 2027 (trang tĩnh, chạy trên GitHub Pages)",
+  "scripts": {
+    "test": "node tools/test.mjs",
+    "check": "node tools/validate.mjs",
+    "serve": "python3 -m http.server 8000"
+  }
+}

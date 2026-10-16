@@ -1,0 +1,98 @@
+[
+ {
+  "name": "Saarland (Data Science and AI, Computer Science và các ngành của Saarland Informatics Campus)",
+  "reason": "GRE bắt buộc với bằng ngoài khu vực châu Âu (không có điểm sàn); APS phải nộp ngay khi nộp hồ sơ."
+ },
+ {
+  "name": "Paderborn – MSc Computer Science",
+  "reason": "Đòi GRE nếu điểm cử nhân quy đổi theo thang Đức kém hơn 1.5."
+ },
+ {
+  "name": "Bayreuth – MSc Computer Science, RWTH Aachen – MSc Data Science",
+  "reason": "Đòi GRE với bằng ngoài châu Âu (Bayreuth: Quantitative ≥ 160; RWTH: Quantitative từ bách phân vị 75)."
+ },
+ {
+  "name": "Bilkent, Sabancı (Thổ Nhĩ Kỳ)",
+  "reason": "Đòi GRE với người nước ngoài (Bilkent Q ≥ 157, Sabancı Q ≥ 153); Sabancı còn không nhận IELTS."
+ },
+ {
+  "name": "Học bổng Đại học Bologna (Unibo Action 1 & 2)",
+  "reason": "Ứng viên thạc sĩ phải có GRE (V+Q từ 290) theo nguồn tổng hợp."
+ },
+ {
+  "name": "LMU Munich – MSc Data Science",
+  "reason": "Đòi điểm trung bình tốt hơn 1.5 (thang Đức) và 30 ECTS thống kê."
+ },
+ {
+  "name": "Jena – MSc Computational and Data Science",
+  "reason": "Dạy bằng tiếng Đức, cần DSH-2."
+ },
+ {
+  "name": "Lối vào thẳng tiến sĩ: OIST, A*STAR SINGA, HKPFS, VISTEC, tiến sĩ ở Mỹ",
+  "reason": "Chỉ dành cho người học tiến sĩ."
+ },
+ {
+  "name": "Gates Cambridge, Clarendon (Oxford)",
+  "reason": "Cambridge và Oxford thường đòi IELTS 7.5, mỗi kỹ năng 7.0."
+ },
+ {
+  "name": "Chevening (Anh)",
+  "reason": "Hạn 2027–28 là 6/10/2026, đã đóng. Giờ dạy tiếng Anh có lương có thể tính vào 2,800 giờ làm việc nếu xin đợt sau."
+ },
+ {
+  "name": "Knight-Hennessy (Stanford)",
+  "reason": "Hạn khóa 2027 là 6/10/2026, đã đóng."
+ },
+ {
+  "name": "NAWA Łukasiewicz (Ba Lan)",
+  "reason": "Trang NAWA xếp vào chương trình đã đóng; đợt gần nhất là 2020."
+ },
+ {
+  "name": "ADB-JSP, JDS (Nhật Bản)",
+  "reason": "Cần 2 năm làm việc chuyên môn toàn thời gian hoặc là công chức."
+ },
+ {
+  "name": "Commonwealth Scholarships (Anh)",
+  "reason": "Việt Nam không thuộc Khối Thịnh vượng chung."
+ },
+ {
+  "name": "Swiss Government Excellence Scholarships",
+  "reason": "Dành cho nghiên cứu sinh và sau tiến sĩ."
+ },
+ {
+  "name": "Holland Scholarship, GREAT Scholarships",
+  "reason": "Chỉ €5,000 hoặc £10,000, không đủ học phí."
+ },
+ {
+  "name": "UvA – MSc Artificial Intelligence",
+  "reason": "IELTS 7.0, mỗi kỹ năng 6.5; chưa thấy học bổng phù hợp."
+ },
+ {
+  "name": "Na Uy, Đại học Tartu (Estonia)",
+  "reason": "Thu học phí với sinh viên ngoài EU."
+ },
+ {
+  "name": "Taiwan ICDF",
+  "reason": "Chỉ cho nước đối tác của ICDF; trang không nêu Việt Nam."
+ },
+ {
+  "name": "TU Berlin EPOS, Amsterdam Merit, CUHK-MAICS, Yenching, Skoll, Doha Institute, UNU-EHS, Georgetown, Monash Commerce, AIM, INCEIF, Geneva Academy, Yeungnam PSPS",
+  "reason": "Ngoài ngành máy tính và dữ liệu."
+ },
+ {
+  "name": "Erasmus Mundus liên ngành: EMILDAI, MIPDaL, FAMEAIS, ChEMoinformaticsplus, EMLE, ILSPSD, MARIHE",
+  "reason": "Luật, vật liệu, hóa học hoặc ngoài ngành."
+ },
+ {
+  "name": "Ritsumeikan APU, Rotary Yoneyama, Martingale Foundation",
+  "reason": "APU không có ngành máy tính; Rotary Yoneyama thường cho người đang học ở Nhật; Martingale dành cho sinh viên Anh."
+ },
+ {
+  "name": "Portsmouth, Aston Cadbury, La Trobe, Montréal, Eastern Mediterranean, Cyprus International",
+  "reason": "Chỉ giảm một phần học phí, không đủ sống."
+ },
+ {
+  "name": "SBW Berlin, Heinrich Böll, Deutschlandstipendium",
+  "reason": "Đòi hoạt động xã hội, đã đang học ở Đức, hoặc số tiền nhỏ."
+ }
+]

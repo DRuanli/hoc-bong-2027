@@ -1,0 +1,5672 @@
+[
+ {
+  "id": "gist",
+  "name": "GIST – học bổng sau đại học",
+  "country": "Hàn Quốc",
+  "region": "chau-a",
+  "type": "Học bổng trường",
+  "level": "Thạc sĩ",
+  "fund": "mot",
+  "spring": "thu",
+  "amount": "Miễn học phí + KRW 140,000/tháng + hỗ trợ ăn khoảng KRW 100,000/tháng; trợ lý nghiên cứu khoảng KRW 6.4 triệu/năm",
+  "deadline": "2026-10-15",
+  "dtext": "Theo bài đăng; không rõ cho kỳ xuân hay thu 2027",
+  "intake": "2027",
+  "cond": "Giữ GPA từ 3.0/4.5 và học ít nhất 9 tín chỉ mỗi kỳ để nhận trợ cấp.",
+  "note": "",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Bài đăng không nêu ngưỡng IELTS"
+  },
+  "cost": {
+   "note": "Miễn học phí; trợ cấp nhỏ, phần sinh hoạt còn lại tự lo (ước tính)",
+   "range": [
+    4500,
+    6000
+   ]
+  },
+  "match": "tb",
+  "ver": "th",
+  "src": "https://jobs.neu.edu.vn/posts/han-quoc-hoc-bong-toan-phan-bac-thac-si-va-tien-si-gist-tai-vien-khoa-hoc-va-cong-nghe-gwangju-2027-202607060647",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": [
+   {
+    "date": "2026-10-15",
+    "label": "Hạn nộp",
+    "kind": "close"
+   }
+  ]
+ },
+ {
+  "id": "daad",
+  "name": "DAAD Study Scholarships for STEM",
+  "country": "Đức",
+  "region": "chau-au",
+  "type": "Học bổng chính phủ",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "€992/tháng + €460/năm cho học tập, bảo hiểm, trợ cấp đi lại",
+  "deadline": "2026-10-21",
+  "dtext": "Hạn cho người nộp từ Việt Nam; chỉ cho chương trình bắt đầu kỳ đông 2027/28",
+  "intake": "10/2027",
+  "cond": "Tối đa 5 chương trình miễn học phí. Một thư giới thiệu theo mẫu DAAD; phỏng vấn là vòng quyết định.",
+  "note": "Gợi ý 5 chương trình miễn học phí, không đòi GRE: TU Darmstadt CS, FAU AI, Hamburg IAS, Hildesheim Data Analytics, Passau CS (dự phòng: Bonn CS, Magdeburg DKE, TU Chemnitz). Tránh Saarland, Paderborn, Bayreuth, RWTH (đòi GRE) và TUM, Baden-Württemberg (thu học phí).",
+  "english": {
+   "o": 4.0,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Chứng chỉ từ B1, không quá 2 năm; ngưỡng thật theo 5 chương trình chọn"
+  },
+  "cost": {
+   "note": "Học bổng €992/tháng bằng đúng mức tài khoản phong tỏa; tự lo phí học kỳ",
+   "range": [
+    0,
+    700
+   ]
+  },
+  "match": "cao",
+  "ver": "xm",
+  "src": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57742130",
+  "docs": {
+   "keys": [
+    "form",
+    "programs",
+    "cv",
+    "motivation",
+    "lor1",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {
+    "cv": "CV dạng bảng, tối đa 3 trang",
+    "motivation": "Thư động lực 1–3 trang",
+    "lor1": "Thư giới thiệu theo mẫu DAAD",
+    "programs": "Mẫu khai tối đa 5 chương trình"
+   }
+  },
+  "events": [
+   {
+    "date": "2026-10-21",
+    "label": "Hạn nộp cho người nộp từ Việt Nam",
+    "kind": "close"
+   }
+  ],
+  "docsText": "Đơn trực tuyến; CV dạng bảng tối đa 3 trang; thư động lực 1–3 trang; một thư giới thiệu gần đây của giảng viên theo mẫu DAAD (tạo trong cổng nộp); mẫu khai tối đa 5 chương trình không thu học phí; bảng điểm và bằng; chứng chỉ ngôn ngữ từ B1, không quá 2 năm; hộ chiếu. Thư nhận của trường Đức có thể nộp sau, trước khi nhận học bổng. Chỉ nhận PDF."
+ },
+ {
+  "id": "utokyo",
+  "name": "Đại học Tokyo (IST) – MEXT do trường đề cử",
+  "country": "Nhật Bản",
+  "region": "chau-a",
+  "type": "Học bổng chính phủ",
+  "level": "Nghiên cứu sinh dự bị, rồi thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "¥143,000/tháng; miễn phí thi, nhập học và học phí; tối đa 1.5 năm (10/2027 – 3/2029)",
+  "deadline": "2026-10-30",
+  "dtext": "Nộp trực tuyến 19/10 – 17:00 ngày 30/10/2026 (giờ Nhật)",
+  "intake": "10/2027",
+  "cond": "Vào diện nghiên cứu sinh không cấp bằng, sau đó phải thi đỗ kỳ tuyển thạc sĩ tại Nhật. Hỏi Phòng Quan hệ quốc tế của IST về điều kiện quốc tịch.",
+  "note": "Hạn rất gần; cần giáo sư nhận hướng dẫn.",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": true,
+   "opt": false,
+   "text": "Nộp chứng chỉ hoặc giấy tờ cho thấy đã học chủ yếu bằng tiếng Anh"
+  },
+  "cost": {
+   "note": "MEXT trả sinh hoạt phí và miễn học phí",
+   "range": [
+    0,
+    0
+   ]
+  },
+  "match": "tb",
+  "ver": "xm",
+  "src": "https://www.i.u-tokyo.ac.jp/edu/MEXT_General_Guidelines_E_Oct2027.pdf",
+  "docs": {
+   "keys": [
+    "advisor",
+    "form",
+    "proposal",
+    "lor1",
+    "transcript",
+    "degree",
+    "moi",
+    "passport",
+    "submit"
+   ],
+   "labels": {
+    "advisor": "Giáo sư đồng ý nhận hướng dẫn"
+   }
+  },
+  "events": [
+   {
+    "date": "2026-10-19",
+    "label": "Mở nộp trực tuyến",
+    "kind": "open"
+   },
+   {
+    "date": "2026-10-30",
+    "label": "Hạn nộp 17:00 giờ Nhật",
+    "kind": "close"
+   }
+  ]
+ },
+ {
+  "id": "posco",
+  "name": "POSCO Asia Fellowship",
+  "country": "Hàn Quốc",
+  "region": "chau-a",
+  "type": "Học bổng quỹ",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "Toàn bộ học phí + sinh hoạt phí 2 năm + bảo hiểm + trợ cấp ổn định",
+  "deadline": "2026-10-31",
+  "dtext": "Bài đăng ghi là chương trình 2026; kiểm tra kỳ nhập học",
+  "intake": "2027",
+  "cond": "Công dân châu Á, ngành STEM, đã có bằng cử nhân. 9 trường: KAIST, POSTECH, SNU, Yonsei, Korea, SKKU, Hanyang, Kyung Hee, Ewha.",
+  "note": "",
+  "english": {
+   "o": 6.0,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "IELTS 6.0"
+  },
+  "cost": {
+   "note": "Toàn phần: học phí, sinh hoạt, bảo hiểm",
+   "range": [
+    0,
+    0
+   ]
+  },
+  "match": "cao",
+  "ver": "th",
+  "src": "https://jobs.neu.edu.vn/posts/han-quoc-hoc-bong-toan-phan-bac-thac-si-va-tien-si-posco-asia-fellowship-tai-cac-truong-dai-hoc-doi-tac-2026-202607100928",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": [
+   {
+    "date": "2026-10-31",
+    "label": "Hạn nộp",
+    "kind": "close"
+   }
+  ]
+ },
+ {
+  "id": "padova",
+  "name": "Padova – Excellence và học bổng Khoa Toán (CS, DS)",
+  "country": "Ý",
+  "region": "chau-au",
+  "type": "Học bổng trường",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "€8,000/năm + miễn học phí. Năm 2026/27 mỗi ngành có 3 suất (1 Excellence, 2 của Khoa)",
+  "deadline": "2026-11-15",
+  "dtext": "23:59 CET, đợt 1",
+  "intake": "10/2027",
+  "cond": "Học bổng xét chủ yếu từ đợt 1. Mỗi ngành chỉ được nộp một lần mỗi năm; nộp cả CS và DS để có hai lượt xét.",
+  "note": "",
+  "english": {
+   "o": 6.0,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "B2 (IELTS 6.0); nhận IELTS One Skill Retake"
+  },
+  "cost": {
+   "note": "Học bổng €8,000 + miễn học phí; còn thiếu so với mức chứng minh €10,180. Tự túc hoàn toàn: khoảng €13,130",
+   "range": [
+    2180,
+    2180
+   ]
+  },
+  "match": "cao",
+  "ver": "xm",
+  "src": "https://www.unipd.it/en/padua-international-excellence-scholarship-programme",
+  "docs": {
+   "keys": [
+    "form",
+    "fee",
+    "cv",
+    "motivation",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {
+    "fee": "Phí nộp €60",
+    "form": "Hồ sơ trên apply.unipd.it"
+   }
+  },
+  "events": [
+   {
+    "date": "2026-11-15",
+    "label": "Hạn đợt 1, 23:59 CET (xét học bổng)",
+    "kind": "close"
+   }
+  ],
+  "docsText": "Phí nộp €60 (một lần). Nhận thư mời phải đóng €208 trước hạn ghi trong thư.",
+  "fee": {
+   "amt": 60,
+   "cur": "EUR",
+   "note": "Một lần; nhận thư mời phải đóng thêm €208"
+  },
+  "comp": {
+   "awards": 3,
+   "text": "3 suất mỗi ngành (2026/27)"
+  }
+ },
+ {
+  "id": "eiffel",
+  "name": "France Excellence Eiffel",
+  "country": "Pháp",
+  "region": "chau-au",
+  "type": "Học bổng chính phủ",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "€1,200/tháng kèm một số dịch vụ",
+  "deadline": "2026-11-26",
+  "dtext": "Hạn nội bộ từng trường; đây là hạn của Paris-Saclay (kết quả nội bộ 7/12)",
+  "intake": "9/2027",
+  "cond": "Phải được một trường Pháp đề cử; mỗi người chỉ một hồ sơ. Ứng viên thạc sĩ sinh sau 31/3/1997. Paris-Saclay đòi giấy xếp hạng và bản dự án nghề nghiệp 1–2 trang.",
+  "note": "Không cộng được với học bổng khác của Chính phủ Pháp.",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Tuỳ chương trình của trường đề cử"
+  },
+  "cost": {
+   "note": "€1,200/tháng; học phí tuỳ trường (tối đa €3,950 ở đại học công)",
+   "range": [
+    0,
+    3950
+   ]
+  },
+  "match": "tb",
+  "ver": "xm",
+  "src": "https://www.universite-paris-saclay.fr/en/admission/bourses-et-aides-financieres/france-excellence-eiffel-scholarship",
+  "docs": {
+   "keys": [
+    "nomination",
+    "cv",
+    "motivation",
+    "rank",
+    "transcript",
+    "degree",
+    "passport",
+    "submit"
+   ],
+   "labels": {
+    "nomination": "Được trường Pháp đề cử",
+    "motivation": "Dự án nghề nghiệp 1–2 trang",
+    "rank": "Giấy xác nhận xếp hạng"
+   }
+  },
+  "events": [
+   {
+    "date": "2026-11-26",
+    "label": "Hạn nội bộ Paris-Saclay",
+    "kind": "close"
+   },
+   {
+    "date": "2026-12-07",
+    "label": "Kết quả nội bộ",
+    "kind": "result"
+   }
+  ]
+ },
+ {
+  "id": "eth",
+  "name": "ETH Zürich – Excellence Scholarship (ESOP)",
+  "country": "Thụy Sĩ",
+  "region": "chau-au",
+  "type": "Học bổng trường",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "CHF 13,500/học kỳ từ kỳ thu 2027 + miễn học phí; khoảng 60 suất",
+  "deadline": "2026-11-30",
+  "dtext": "Mở 1/11/2026",
+  "intake": "9/2027",
+  "cond": "Top 10% khóa. Có thể phỏng vấn tháng 2; kết quả cuối tháng 3.",
+  "note": "",
+  "english": {
+   "o": 7.0,
+   "b": null,
+   "moi": true,
+   "opt": false,
+   "text": "Miễn chứng chỉ nếu trường xác nhận cử nhân học hoàn toàn bằng tiếng Anh"
+  },
+  "cost": {
+   "note": "CHF 27,000/năm + miễn học phí, gần đủ sinh hoạt ở Zürich (ước tính)",
+   "range": [
+    0,
+    2000
+   ]
+  },
+  "match": "cao",
+  "ver": "xm",
+  "src": "https://ethz.ch/en/studies/registration-application/master/application/language-requirements.html",
+  "docs": {
+   "keys": [
+    "form",
+    "fee",
+    "cv",
+    "proposal",
+    "lor1",
+    "lor2",
+    "rank",
+    "transcript",
+    "degree",
+    "moi",
+    "passport",
+    "submit"
+   ],
+   "labels": {
+    "fee": "Phí nộp CHF 150",
+    "proposal": "Đề cương luận văn",
+    "rank": "Xác nhận top 10% khóa"
+   }
+  },
+  "events": [
+   {
+    "date": "2026-11-01",
+    "label": "Mở nộp",
+    "kind": "open"
+   },
+   {
+    "date": "2026-11-30",
+    "label": "Hạn nộp ESOP",
+    "kind": "close"
+   }
+  ],
+  "docsText": "Phí nộp CHF 150 (nguồn tổng hợp). Đề cương luận văn; hai thư giới thiệu của giáo sư; văn bản chính thức của trường đại học xác nhận chương trình cử nhân dạy hoàn toàn bằng tiếng Anh để được miễn IELTS.",
+  "fee": {
+   "amt": 150,
+   "cur": "CHF",
+   "note": "Nguồn tổng hợp"
+  },
+  "comp": {
+   "awards": 60,
+   "text": "Khoảng 60 suất mỗi năm"
+  }
+ },
+ {
+  "id": "veith",
+  "name": "TU Wien – Helmut Veith Stipend",
+  "country": "Áo",
+  "region": "chau-au",
+  "type": "Học bổng trường",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "€7,000/năm + miễn 100% học phí",
+  "deadline": "2026-11-30",
+  "dtext": "Nộp qua hệ thống tuyển dụng của TU Wien",
+  "intake": "10/2027",
+  "cond": "Chỉ dành cho sinh viên nữ. Áp dụng cho các thạc sĩ tiếng Anh ngành máy tính của TU Wien.",
+  "note": "",
+  "english": {
+   "o": 5.5,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "B2 theo quy định của TU Wien"
+  },
+  "cost": {
+   "note": "€7,000/năm + miễn học phí; phần còn lại theo mức chứng minh của Áo",
+   "rule": "at",
+   "award": 7000,
+   "tuition": 0
+  },
+  "match": "tb",
+  "ver": "th",
+  "src": "https://jobs.neu.edu.vn/posts/ao-hoc-bong-toan-phan-helmut-veith-bac-thac-si-tai-dai-hoc-cong-nghe-vienna-tu-wien-2027-202609171407",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "transcript",
+    "degree",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": [
+   {
+    "date": "2026-11-30",
+    "label": "Hạn nộp",
+    "kind": "close"
+   }
+  ]
+ },
+ {
+  "id": "hku",
+  "name": "HKU – MPhil (thạc sĩ nghiên cứu)",
+  "country": "Hồng Kông",
+  "region": "chau-a",
+  "type": "Thạc sĩ nghiên cứu có tài trợ",
+  "level": "Thạc sĩ nghiên cứu",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "Học bổng nghiên cứu hằng tháng; mức chưa xác minh",
+  "deadline": "2026-12-01",
+  "dtext": "Dự kiến theo đợt trước (1/9 – 1/12); có vòng bổ sung sau đó",
+  "intake": "9/2027",
+  "cond": "MPhil 2 năm; nên liên hệ giáo sư hướng dẫn trước khi nộp.",
+  "note": "",
+  "english": {
+   "o": 6.5,
+   "b": 6.0,
+   "moi": false,
+   "opt": false,
+   "text": "IELTS 6.5, mỗi kỹ năng ≥ 6.0 (trang của HKU IHSS)"
+  },
+  "cost": {
+   "note": "Học bổng nghiên cứu hằng tháng thường đủ học phí và sinh hoạt",
+   "range": [
+    0,
+    0
+   ]
+  },
+  "match": "cao",
+  "ver": "dk",
+  "src": "https://ihss.hku.hk/teaching-learning/phd-mphil-ihss/rpg-admission-2026-27/",
+  "docs": {
+   "keys": [
+    "advisor",
+    "form",
+    "cv",
+    "proposal",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "ielts",
+    "pubs",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": [
+   {
+    "date": "2026-12-01",
+    "label": "Hạn đợt chính (dự kiến)",
+    "kind": "close",
+    "est": true
+   }
+  ]
+ },
+ {
+  "id": "memorial",
+  "name": "Memorial University – MSc Computer Science (thesis)",
+  "country": "Canada",
+  "region": "bac-my",
+  "type": "Thạc sĩ nghiên cứu có tài trợ",
+  "level": "Thạc sĩ nghiên cứu",
+  "fund": "mot",
+  "spring": "thu",
+  "amount": "Tài trợ cơ bản CAD 20,000 cho thạc sĩ nghiên cứu",
+  "deadline": "2026-12-01",
+  "dtext": "Kỳ thu 2027: 1/12; kỳ đông 2028: 1/4",
+  "intake": "9/2027",
+  "cond": "GRE được khuyến khích mạnh với người nước ngoài nhưng không bắt buộc. Nên liên hệ giáo sư khi nộp.",
+  "note": "",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Trang ngành không nêu; kiểm tra yêu cầu chung của trường"
+  },
+  "cost": {
+   "note": "Tài trợ CAD 20,000 so với mức chứng minh CAD 23,448 + học phí (ước tính)",
+   "range": [
+    3000,
+    6000
+   ]
+  },
+  "match": "tb",
+  "ver": "xm",
+  "src": "https://www.mun.ca/become/graduate/programs-and-courses/computer-science/",
+  "docs": {
+   "keys": [
+    "advisor",
+    "form",
+    "cv",
+    "motivation",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "ielts",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": [
+   {
+    "date": "2026-12-01",
+    "label": "Hạn kỳ thu 2027",
+    "kind": "close"
+   },
+   {
+    "date": "2027-04-01",
+    "label": "Hạn kỳ đông 2028",
+    "kind": "close"
+   }
+  ],
+  "gre": "recommended"
+ },
+ {
+  "id": "delft",
+  "name": "TU Delft – Justus & Louise van Effen Excellence",
+  "country": "Hà Lan",
+  "region": "chau-au",
+  "type": "Học bổng trường",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "Toàn bộ học phí + hỗ trợ sinh hoạt",
+  "deadline": "2026-12-01",
+  "dtext": "23:59 CET, nộp cùng hồ sơ thạc sĩ",
+  "intake": "9/2027",
+  "cond": "Top 10% khóa. GPA tối thiểu 75% thang điểm.",
+  "note": "Đòi 6.5 ở mọi kỹ năng; nếu thiếu cần thi lại trước hạn.",
+  "english": {
+   "o": 7.0,
+   "b": 6.5,
+   "moi": false,
+   "opt": false,
+   "text": "IELTS 7.0, mỗi kỹ năng ≥ 6.5"
+  },
+  "cost": {
+   "note": "Học phí + hỗ trợ sinh hoạt; có thể thiếu một phần so với mức €13,569",
+   "range": [
+    0,
+    3000
+   ]
+  },
+  "match": "cao",
+  "ver": "xm",
+  "src": "https://www.Tudelft.nl/onderwijs/toelating-en-aanmelding/msc-international-diploma/admission-requirements",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "lor1",
+    "lor2",
+    "rank",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {
+    "rank": "Xác nhận top 10% khóa"
+   }
+  },
+  "events": [
+   {
+    "date": "2026-12-01",
+    "label": "Hạn nộp, 23:59 CET",
+    "kind": "close"
+   }
+  ]
+ },
+ {
+  "id": "groningen",
+  "name": "Groningen – Eric Bleumink Fund",
+  "country": "Hà Lan",
+  "region": "chau-au",
+  "type": "Học bổng trường",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "Học phí, đi lại, sinh hoạt, sách, bảo hiểm",
+  "deadline": "2026-12-01",
+  "dtext": "Hoàn tất hồ sơ thạc sĩ trước ngày này",
+  "intake": "9/2027",
+  "cond": "Việt Nam có trong danh sách nước. Không tự nộp được; trường đề cử từ hồ sơ thạc sĩ.",
+  "note": "",
+  "english": {
+   "o": 6.5,
+   "b": 6.5,
+   "moi": false,
+   "opt": false,
+   "text": "Computing Science và AI: IELTS 6.5, mỗi kỹ năng ≥ 6.5; không nhận One Skill Retake"
+  },
+  "cost": {
+   "note": "Học phí, đi lại, sinh hoạt, bảo hiểm",
+   "range": [
+    0,
+    0
+   ]
+  },
+  "match": "cao",
+  "ver": "xm",
+  "src": "https://www.rug.nl/education/application-enrolment-tuition-fees/admission/procedures/application-informatie/with-non-dutch-diploma/master/master-language-requirements",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": [
+   {
+    "date": "2026-12-01",
+    "label": "Hoàn tất hồ sơ thạc sĩ",
+    "kind": "close"
+   }
+  ]
+ },
+ {
+  "id": "ewc",
+  "name": "East-West Center + University of Hawaiʻi at Mānoa (MS CS)",
+  "country": "Mỹ (Hawaii)",
+  "region": "bac-my",
+  "type": "Học bổng quỹ",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "Học phí + phí bắt buộc + ở ký túc của EWC + trợ cấp",
+  "deadline": "2026-12-01",
+  "dtext": "Hạn EWC; hạn ngành CS của UH kỳ thu là 15/1",
+  "intake": "8/2027",
+  "cond": "Việt Nam đủ điều kiện. Phải được nhận vào chương trình của UH Mānoa; chưa rõ ngành CS có đòi GRE không.",
+  "note": "",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "UH: ngưỡng TOEFL/IELTS tuỳ ngành"
+  },
+  "cost": {
+   "note": "Học phí, ký túc và trợ cấp của EWC",
+   "range": [
+    0,
+    1000
+   ]
+  },
+  "match": "tb",
+  "ver": "th",
+  "src": "https://manoa.hawaii.edu/graduate/computer-science/",
+  "docs": {
+   "keys": [
+    "form",
+    "motivation",
+    "lor1",
+    "lor2",
+    "lor3",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "admit",
+    "submit"
+   ],
+   "labels": {
+    "admit": "Hồ sơ vào UH Mānoa"
+   }
+  },
+  "events": [
+   {
+    "date": "2026-12-01",
+    "label": "Hạn EWC",
+    "kind": "close"
+   },
+   {
+    "date": "2027-01-15",
+    "label": "Hạn ngành CS của UH Mānoa",
+    "kind": "other"
+   }
+  ]
+ },
+ {
+  "id": "maastricht",
+  "name": "Maastricht – NL-High Potential",
+  "country": "Hà Lan",
+  "region": "chau-au",
+  "type": "Học bổng trường",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "Miễn học phí + €1,550/tháng + phòng ở + bảo hiểm, visa; 18 suất",
+  "deadline": "2026-12-10",
+  "dtext": "Hạn nộp đủ hồ sơ chương trình; hạn đơn học bổng 1/2/2027",
+  "intake": "9/2027",
+  "cond": "GPA từ 7.5/10. Không quá 35 tuổi vào 1/9/2027. Chỉ các ngành trong danh sách được xét.",
+  "note": "",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Có câu hỏi miễn cho cử nhân học bằng tiếng Anh; chưa rõ kết quả"
+  },
+  "cost": {
+   "note": "Miễn học phí + €1,550/tháng + phòng ở",
+   "range": [
+    0,
+    0
+   ]
+  },
+  "match": "tb",
+  "ver": "th",
+  "src": "https://www.maastrichtuniversity.nl/file/admission-requirementsmasterdata-science-decision-making2026-2027pdf",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": [
+   {
+    "date": "2026-12-10",
+    "label": "Hạn nộp đủ hồ sơ chương trình",
+    "kind": "close"
+   },
+   {
+    "date": "2027-02-01",
+    "label": "Hạn đơn học bổng",
+    "kind": "close"
+   }
+  ],
+  "comp": {
+   "awards": 18,
+   "text": "18 suất"
+  }
+ },
+ {
+  "id": "passau",
+  "name": "Passau – MSc Computer Science",
+  "country": "Đức",
+  "region": "chau-au",
+  "type": "Học phí thấp hoặc miễn",
+  "level": "Thạc sĩ",
+  "fund": "mien",
+  "spring": "ca",
+  "amount": "Không học phí; phí học kỳ khoảng €130",
+  "deadline": "2026-12-15",
+  "dtext": "Kỳ hè 2027: 1/11 – 15/12; kỳ đông 2027/28: 1/4 – 31/5",
+  "intake": "4/2027 hoặc 10/2027",
+  "cond": "Cần ít nhất 110 ECTS khoa học máy tính và nằm trong top 70% khóa (hoặc điểm Đức ≤ 2.7). Có thể học hoàn toàn bằng tiếng Anh.",
+  "note": "Kỳ hè chỉ kịp nếu có chứng chỉ APS trước 15/12.",
+  "english": {
+   "o": 5.5,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "B2 (trang ghi ví dụ IELTS 5.5)"
+  },
+  "cost": {
+   "note": "Mức tài khoản phong tỏa €11,904 + phí học kỳ khoảng €130",
+   "range": [
+    12164,
+    12164
+   ]
+  },
+  "match": "cao",
+  "ver": "xm",
+  "src": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4455/",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "transcript",
+    "degree",
+    "ielts",
+    "aps",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": [
+   {
+    "date": "2026-12-15",
+    "label": "Hạn kỳ hè 2027",
+    "kind": "close"
+   },
+   {
+    "date": "2027-04-01",
+    "label": "Mở kỳ đông",
+    "kind": "open"
+   },
+   {
+    "date": "2027-05-31",
+    "label": "Hạn kỳ đông 2027/28",
+    "kind": "close"
+   }
+  ],
+  "aps": "required"
+ },
+ {
+  "id": "hildesheim",
+  "name": "Hildesheim – MSc Data Analytics",
+  "country": "Đức",
+  "region": "chau-au",
+  "type": "Học phí thấp hoặc miễn",
+  "level": "Thạc sĩ",
+  "fund": "mien",
+  "spring": "ca",
+  "amount": "Không học phí",
+  "deadline": "2026-12-15",
+  "dtext": "Người ngoài EU: kỳ hè 15/12; kỳ đông 30/6",
+  "intake": "4/2027 hoặc 10/2027",
+  "cond": "Cần nền toán, thống kê và lập trình tốt; có giới hạn số chỗ.",
+  "note": "Kỳ hè chỉ kịp nếu có APS trước 15/12. Hợp hướng khai phá dữ liệu và học máy.",
+  "english": {
+   "o": 6.0,
+   "b": null,
+   "moi": true,
+   "opt": false,
+   "text": "IELTS 6 (không nêu điểm từng kỹ năng); trang nhắc có thể dùng giấy xác nhận cử nhân dạy hoàn toàn bằng tiếng Anh"
+  },
+  "cost": {
+   "note": "Mức tài khoản phong tỏa €11,904 + phí học kỳ (ước tính)",
+   "range": [
+    12600,
+    12800
+   ]
+  },
+  "match": "cao",
+  "ver": "th",
+  "src": "https://www.mygermanuniversity.com/master/data-analytics/305",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "transcript",
+    "degree",
+    "ielts",
+    "aps",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": [
+   {
+    "date": "2026-12-15",
+    "label": "Hạn kỳ hè 2027",
+    "kind": "close"
+   },
+   {
+    "date": "2027-06-30",
+    "label": "Hạn kỳ đông 2027/28",
+    "kind": "close"
+   }
+  ],
+  "aps": "required"
+ },
+ {
+  "id": "kaist",
+  "name": "KAIST – tuyển sinh quốc tế kỳ thu 2027",
+  "country": "Hàn Quốc",
+  "region": "chau-a",
+  "type": "Học bổng trường",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "Miễn 100% học phí tối đa 4 học kỳ + trợ cấp cơ bản KRW 350,000/tháng, tăng nếu làm trợ lý nghiên cứu (nguồn tổng hợp)",
+  "deadline": "",
+  "dtext": "Đợt sớm kỳ thu 2027: tháng 12/2026; đợt thường: tháng 3/2027 (kỳ xuân đã đóng 1/9)",
+  "intake": "9/2027",
+  "cond": "Chỉ cho người không có quốc tịch Hàn.",
+  "note": "",
+  "english": {
+   "o": 6.5,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "IELTS 6.5 tổng hoặc TOEFL iBT 83"
+  },
+  "cost": {
+   "note": "Miễn học phí + KRW 350,000/tháng; sinh hoạt còn lại tự lo (ước tính)",
+   "range": [
+    3000,
+    5500
+   ]
+  },
+  "match": "cao",
+  "ver": "th",
+  "src": "https://www.successtonicsblog.com/2026/08/apply-now-kaist-international-graduate-scholarship-2027-tuition-waiver-stipends",
+  "docs": {
+   "keys": [
+    "form",
+    "motivation",
+    "cv",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {
+    "motivation": "Kế hoạch học tập"
+   }
+  },
+  "events": []
+ },
+ {
+  "id": "ubc",
+  "name": "UBC – MSc Computer Science (thesis)",
+  "country": "Canada",
+  "region": "bac-my",
+  "type": "Thạc sĩ nghiên cứu có tài trợ",
+  "level": "Thạc sĩ nghiên cứu",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "Bảo đảm CAD 32,171/năm trong 2 năm + học bổng học phí năm đầu",
+  "deadline": "2026-12-15",
+  "dtext": "Bảng điểm 16/12; thư giới thiệu 15/1/2027",
+  "intake": "9/2027",
+  "cond": "Không đòi GRE.",
+  "note": "Tài trợ bảo đảm; đòi 6.5 ở mọi kỹ năng.",
+  "english": {
+   "o": 7.0,
+   "b": 6.5,
+   "moi": false,
+   "opt": false,
+   "text": "IELTS 7.0, mỗi kỹ năng ≥ 6.5"
+  },
+  "cost": {
+   "note": "Bảo đảm CAD 32,171/năm + học bổng học phí năm đầu",
+   "range": [
+    0,
+    0
+   ]
+  },
+  "match": "cao",
+  "ver": "xm",
+  "src": "https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-computer-science?page=1",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "lor1",
+    "lor2",
+    "lor3",
+    "transcript",
+    "degree",
+    "ielts",
+    "advisor",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": [
+   {
+    "date": "2026-12-15",
+    "label": "Hạn nộp",
+    "kind": "close"
+   },
+   {
+    "date": "2026-12-16",
+    "label": "Hạn bảng điểm",
+    "kind": "other"
+   },
+   {
+    "date": "2027-01-15",
+    "label": "Hạn thư giới thiệu",
+    "kind": "other"
+   }
+  ]
+ },
+ {
+  "id": "sask",
+  "name": "Saskatchewan – MSc Computer Science (thesis)",
+  "country": "Canada",
+  "region": "bac-my",
+  "type": "Thạc sĩ nghiên cứu có tài trợ",
+  "level": "Thạc sĩ nghiên cứu",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "Thường tài trợ 20 tháng: 12 tháng đầu đủ học phí + CAD 18,000; 8 tháng sau học phí + CAD 12,000",
+  "deadline": "2026-12-15",
+  "dtext": "Kỳ tháng 9: hạn cho người nước ngoài 15/12",
+  "intake": "9/2027",
+  "cond": "Có giờ phục vụ (hướng dẫn thực hành, chấm bài); một số khoản cần GPA nhập học từ 80%.",
+  "note": "Khoa không nhận giấy xác nhận học bằng tiếng Anh, nhưng có thể hỏi miễn thi qua gradprogram@cs.usask.ca.",
+  "english": {
+   "o": 7.0,
+   "b": 6.5,
+   "moi": false,
+   "opt": false,
+   "text": "IELTS 7.0, không kỹ năng nào dưới 6.5"
+  },
+  "cost": {
+   "note": "Học phí + CAD 18,000 năm đầu; CAD 12,000 cho 8 tháng sau",
+   "range": [
+    0,
+    2000
+   ]
+  },
+  "match": "tb",
+  "ver": "xm",
+  "src": "https://grad.usask.ca/programs/computer-science.php",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "lor1",
+    "lor2",
+    "lor3",
+    "transcript",
+    "degree",
+    "ielts",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": [
+   {
+    "date": "2026-12-15",
+    "label": "Hạn cho người nước ngoài",
+    "kind": "close"
+   }
+  ]
+ },
+ {
+  "id": "alberta",
+  "name": "Alberta – MSc Computing Science (thesis)",
+  "country": "Canada",
+  "region": "bac-my",
+  "type": "Thạc sĩ nghiên cứu có tài trợ",
+  "level": "Thạc sĩ nghiên cứu",
+  "fund": "mot",
+  "spring": "thu",
+  "amount": "Trang không nêu mức tài trợ",
+  "deadline": "2026-12-15",
+  "dtext": "Hồ sơ giấy tờ trước 15/1/2027",
+  "intake": "9/2027",
+  "cond": "Không bắt buộc GRE nhưng khuyến khích với bằng ngoài Canada. Thường chọn GPA từ 3.5.",
+  "note": "",
+  "english": {
+   "o": 7.0,
+   "b": 6.5,
+   "moi": false,
+   "opt": false,
+   "text": "IELTS 7.0, mỗi kỹ năng ≥ 6.5"
+  },
+  "cost": {
+   "note": "Trang không nêu mức tài trợ",
+   "range": null
+  },
+  "match": "cao",
+  "ver": "xm",
+  "src": "https://www.ualberta.ca/en/computing-science/graduate-studies/programs-and-admissions/applications-and-admissions/index.html",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "lor1",
+    "lor2",
+    "lor3",
+    "transcript",
+    "degree",
+    "ielts",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": [
+   {
+    "date": "2026-12-15",
+    "label": "Hạn nộp",
+    "kind": "close"
+   },
+   {
+    "date": "2027-01-15",
+    "label": "Hạn giấy tờ",
+    "kind": "other"
+   }
+  ],
+  "gre": "recommended"
+ },
+ {
+  "id": "epfl",
+  "name": "EPFL – Master Excellence Fellowship",
+  "country": "Thụy Sĩ",
+  "region": "chau-au",
+  "type": "Học bổng trường",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "CHF 10,000/học kỳ, tối đa 4 học kỳ; phòng ký túc cho ứng viên từ trường khác",
+  "deadline": "2026-12-15",
+  "dtext": "Vòng 1; vòng cuối 31/3/2027",
+  "intake": "9/2027",
+  "cond": "Mỗi năm chỉ nộp một chương trình. Học phí tự trả.",
+  "note": "",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": false,
+   "opt": true,
+   "text": "Ngành CS không bắt buộc chứng chỉ; khuyến nghị C1"
+  },
+  "cost": {
+   "note": "CHF 20,000/năm; học phí và phần sinh hoạt còn lại tự lo (ước tính)",
+   "range": [
+    7000,
+    10000
+   ]
+  },
+  "match": "cao",
+  "ver": "xm",
+  "src": "https://epfl.ch/education/admission/admission-2/master-admission-criteria-application/online-application",
+  "docs": {
+   "keys": [
+    "form",
+    "fee",
+    "cv",
+    "motivation",
+    "lor1",
+    "lor2",
+    "lor3",
+    "transcript",
+    "degree",
+    "passport",
+    "submit"
+   ],
+   "labels": {
+    "fee": "Phí nộp CHF 150",
+    "motivation": "Bài trình bày mục tiêu, tối đa 1,000 từ"
+   }
+  },
+  "events": [
+   {
+    "date": "2026-12-15",
+    "label": "Hạn vòng 1",
+    "kind": "close"
+   },
+   {
+    "date": "2027-03-31",
+    "label": "Hạn vòng cuối",
+    "kind": "close"
+   }
+  ],
+  "docsText": "Phí nộp CHF 150 (bằng cử nhân nước ngoài); bài trình bày mục tiêu tối đa 1,000 từ; thông tin 3 người giới thiệu học thuật (phải có ít nhất 2 thư thì hồ sơ mới được xét).",
+  "fee": {
+   "amt": 150,
+   "cur": "CHF",
+   "note": "Không hoàn lại"
+  }
+ },
+ {
+  "id": "kaust",
+  "name": "KAUST Fellowship (MS)",
+  "country": "Ả Rập Xê Út",
+  "region": "trung-dong",
+  "type": "Học bổng trường",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "Học phí + US$20,000/năm + nhà ở + y tế + hỗ trợ chuyển đến",
+  "deadline": "2027-01-03",
+  "dtext": "Kỳ 8/2027: nộp 28/9/2026 – 3/1/2027; kết quả 14/2",
+  "intake": "8/2027",
+  "cond": "GRE không bắt buộc. GPA từ 3.0/4.0. Diện nhận có điều kiện (6.5, mỗi kỹ năng 6.0) chỉ dành cho người Ả Rập Xê Út và ứng viên tiến sĩ.",
+  "note": "",
+  "english": {
+   "o": 7.0,
+   "b": 6.5,
+   "moi": false,
+   "opt": false,
+   "text": "IELTS 7.0, mỗi kỹ năng ≥ 6.5"
+  },
+  "cost": {
+   "note": "Học phí + US$20,000/năm + nhà ở + y tế",
+   "range": [
+    0,
+    0
+   ]
+  },
+  "match": "cao",
+  "ver": "th",
+  "src": "https://propakistani.pk/2026/09/16/fully-funded-kaust-scholarship-2027-for-ms-and-phd-in-saudi-arabia/",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "lor1",
+    "lor2",
+    "lor3",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": [
+   {
+    "date": "2027-01-03",
+    "label": "Hạn nộp kỳ 8/2027",
+    "kind": "close"
+   },
+   {
+    "date": "2027-02-14",
+    "label": "Kết quả",
+    "kind": "result"
+   }
+  ]
+ },
+ {
+  "id": "tudarmstadt",
+  "name": "TU Darmstadt – MSc Computer Science",
+  "country": "Đức",
+  "region": "chau-au",
+  "type": "Học phí thấp hoặc miễn",
+  "level": "Thạc sĩ",
+  "fund": "mien",
+  "spring": "ca",
+  "amount": "Không học phí; phí học kỳ khoảng €348",
+  "deadline": "2027-01-15",
+  "dtext": "Kỳ hè 2027: 1/12 – 15/1; kỳ đông 2027/28: 1/6 – 15/7. Bản giấy công chứng phải đến trước hạn",
+  "intake": "4/2027 hoặc 10/2027",
+  "cond": "Không xét GPA và kinh nghiệm; cần ít nhất 60 ECTS khớp các môn cốt lõi của B.Sc. Informatik. Có thể phải thi đầu vào tại trường (GRE V155/Q165/AW3.5 chỉ dùng để được miễn thi).",
+  "note": "Lối vào kỳ xuân 2027 khả thi nhất ở Đức nếu có chứng chỉ APS trước đầu tháng 1. Nên đưa vào 5 lựa chọn DAAD.",
+  "english": {
+   "o": 7.0,
+   "b": null,
+   "moi": true,
+   "opt": false,
+   "text": "IELTS 7.0 hoặc giấy xác nhận cả chương trình cử nhân học bằng tiếng Anh"
+  },
+  "cost": {
+   "note": "Mức tài khoản phong tỏa €11,904 + phí học kỳ khoảng €348",
+   "range": [
+    12600,
+    12600
+   ]
+  },
+  "match": "cao",
+  "ver": "xm",
+  "src": "https://www.informatik.tu-darmstadt.de/studium_fb20/vor_dem_studium/bewerbung_1/bewerbung_2.en.jsp",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "transcript",
+    "degree",
+    "moi",
+    "aps",
+    "courses",
+    "passport",
+    "hardcopy",
+    "submit"
+   ],
+   "labels": {
+    "hardcopy": "Gửi bản giấy công chứng (phải đến trước hạn)"
+   }
+  },
+  "events": [
+   {
+    "date": "2026-12-01",
+    "label": "Mở kỳ hè",
+    "kind": "open"
+   },
+   {
+    "date": "2027-01-15",
+    "label": "Hạn kỳ hè 2027: bản giấy phải đến",
+    "kind": "close"
+   },
+   {
+    "date": "2027-06-01",
+    "label": "Mở kỳ đông",
+    "kind": "open"
+   },
+   {
+    "date": "2027-07-15",
+    "label": "Hạn kỳ đông 2027/28",
+    "kind": "close"
+   }
+  ],
+  "docsText": "Nộp trực tuyến và gửi bản giấy công chứng (dấu bưu điện đúng hạn không được tính). Trang không nhắc APS, nhưng người có bằng Việt Nam thường phải có.",
+  "aps": "required"
+ },
+ {
+  "id": "chemnitz",
+  "name": "TU Chemnitz – MSc Web Engineering",
+  "country": "Đức",
+  "region": "chau-au",
+  "type": "Học phí thấp hoặc miễn",
+  "level": "Thạc sĩ",
+  "fund": "mien",
+  "spring": "ca",
+  "amount": "Không học phí; phí học kỳ khoảng €330",
+  "deadline": "2027-01-15",
+  "dtext": "Kỳ hè 2027: 15/1; kỳ đông: 15/7 (qua uni-assist)",
+  "intake": "4/2027 hoặc 10/2027",
+  "cond": "Học 100% bằng tiếng Anh; luận văn bằng tiếng Anh hoặc tiếng Đức.",
+  "note": "Hướng web và dữ liệu, hơi lệch so với khai phá dữ liệu.",
+  "english": {
+   "o": 5.5,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "IELTS 5.5"
+  },
+  "cost": {
+   "note": "Mức tài khoản phong tỏa €11,904 + phí học kỳ khoảng €330",
+   "range": [
+    12564,
+    12564
+   ]
+  },
+  "match": "tb",
+  "ver": "xm",
+  "src": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4655/",
+  "docs": {
+   "keys": [
+    "form",
+    "fee",
+    "cv",
+    "transcript",
+    "degree",
+    "ielts",
+    "aps",
+    "passport",
+    "submit"
+   ],
+   "labels": {
+    "form": "Hồ sơ trên uni-assist",
+    "fee": "Phí uni-assist €75"
+   }
+  },
+  "events": [
+   {
+    "date": "2027-01-15",
+    "label": "Hạn kỳ hè 2027",
+    "kind": "close"
+   },
+   {
+    "date": "2027-07-15",
+    "label": "Hạn kỳ đông 2027/28",
+    "kind": "close"
+   }
+  ],
+  "docsText": "Qua uni-assist: €75 cho hồ sơ đầu, €30 mỗi hồ sơ thêm trong cùng kỳ; cần APS.",
+  "fee": {
+   "amt": 75,
+   "cur": "EUR",
+   "group": "uniassist",
+   "note": "uni-assist: €75 hồ sơ đầu, €30 mỗi hồ sơ thêm"
+  },
+  "aps": "required"
+ },
+ {
+  "id": "fau",
+  "name": "FAU Erlangen-Nürnberg – MSc Artificial Intelligence",
+  "country": "Đức",
+  "region": "chau-au",
+  "type": "Học phí thấp hoặc miễn",
+  "level": "Thạc sĩ",
+  "fund": "mien",
+  "spring": "thu",
+  "amount": "Không học phí; phí học kỳ €118",
+  "deadline": "2027-05-31",
+  "dtext": "Kỳ đông: 15/2 – 31/5; kỳ hè: 15/9 – 30/11 (cần chứng chỉ APS trước hạn)",
+  "intake": "10/2027",
+  "cond": "ECTS tối thiểu: lập trình và thuật toán 20, lý thuyết và logic 15, cơ sở dữ liệu 5, toán 20, kỹ nghệ phần mềm 10. Bài thi sàng lọc trực tuyến 60 phút.",
+  "note": "",
+  "english": {
+   "o": 6.0,
+   "b": null,
+   "moi": true,
+   "opt": false,
+   "text": "TOEFL iBT 80 hoặc tương đương; nhận xác nhận của trường nếu cử nhân dạy hoàn toàn bằng tiếng Anh"
+  },
+  "cost": {
+   "note": "Mức tài khoản phong tỏa €11,904 + phí học kỳ €118",
+   "range": [
+    12140,
+    12140
+   ]
+  },
+  "match": "cao",
+  "ver": "xm",
+  "src": "https://ai.study.fau.eu/prospective-students/application-master",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "transcript",
+    "degree",
+    "moi",
+    "aps",
+    "courses",
+    "passport",
+    "test",
+    "submit"
+   ],
+   "labels": {
+    "test": "Bài thi sàng lọc trực tuyến 60 phút"
+   }
+  },
+  "events": [
+   {
+    "date": "2027-02-15",
+    "label": "Mở kỳ đông",
+    "kind": "open"
+   },
+   {
+    "date": "2027-05-31",
+    "label": "Hạn kỳ đông 2027/28",
+    "kind": "close"
+   }
+  ],
+  "docsText": "APS bắt buộc với người có bằng Việt Nam. Bài thi sàng lọc trực tuyến 60 phút, dạng mở sách (thuật toán, lý thuyết, logic, cơ sở dữ liệu, toán). Không nhận chứng chỉ kiểu Duolingo.",
+  "aps": "required"
+ },
+ {
+  "id": "hamburg",
+  "name": "Hamburg – MSc Intelligent Adaptive Systems",
+  "country": "Đức",
+  "region": "chau-au",
+  "type": "Học phí thấp hoặc miễn",
+  "level": "Thạc sĩ",
+  "fund": "mien",
+  "spring": "thu",
+  "amount": "Không học phí; phí học kỳ khoảng €350 (gồm vé giao thông)",
+  "deadline": "2027-03-31",
+  "dtext": "Chỉ kỳ đông; nộp 15/2 – 31/3",
+  "intake": "10/2027",
+  "cond": "Cần 60 ECTS khoa học máy tính cốt lõi. Chỉ khoảng 5% ứng viên được nhận; điểm gồm 40% thư động lực, 30% bằng cử nhân, 30% kinh nghiệm.",
+  "note": "",
+  "english": {
+   "o": 6.5,
+   "b": 6.0,
+   "moi": false,
+   "opt": false,
+   "text": "IELTS 6.5, mỗi kỹ năng ≥ 6.0; không nhận xác nhận học bằng tiếng Anh"
+  },
+  "cost": {
+   "note": "Mức tài khoản phong tỏa €11,904 + phí học kỳ khoảng €350",
+   "range": [
+    12604,
+    12604
+   ]
+  },
+  "match": "cao",
+  "ver": "xm",
+  "src": "https://www.inf.uni-hamburg.de/en/studies/master/ias/ias-application.html",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "ects",
+    "transcript",
+    "degree",
+    "ielts",
+    "aps",
+    "passport",
+    "submit"
+   ],
+   "labels": {
+    "motivation": "Thư động lực tối đa 1.5 trang",
+    "ects": "Bảng 60 ECTS theo mẫu IAS",
+    "form": "Mẫu cover letter + 12 PDF ≤ 9 MB"
+   }
+  },
+  "events": [
+   {
+    "date": "2027-02-15",
+    "label": "Mở nộp",
+    "kind": "open"
+   },
+   {
+    "date": "2027-03-31",
+    "label": "Hạn nộp, 23:59 (UTC+2)",
+    "kind": "close"
+   }
+  ],
+  "docsText": "12 tài liệu PDF theo đúng thứ tự (trang đầu là mẫu cover letter), tổng tối đa 9 MB; thư động lực tự viết bằng tiếng Anh, tối đa 1.5 trang; bảng 60 ECTS theo mẫu IAS (thiếu bảng thì hồ sơ không được xét). Có thể được phỏng vấn qua điện thoại hoặc email.",
+  "comp": {
+   "rate": 0.05,
+   "text": "Khoảng 5% ứng viên được nhận"
+  },
+  "aps": "required"
+ },
+ {
+  "id": "bonn",
+  "name": "Bonn – MSc Computer Science",
+  "country": "Đức",
+  "region": "chau-au",
+  "type": "Học phí thấp hoặc miễn",
+  "level": "Thạc sĩ",
+  "fund": "mien",
+  "spring": "thu",
+  "amount": "Không học phí; chỉ đóng phí học kỳ",
+  "deadline": "2027-05-01",
+  "dtext": "Người ngoài EU: kỳ đông 1/5; kỳ hè 1/11 (cần chứng chỉ APS trước hạn)",
+  "intake": "10/2027",
+  "cond": "Cử nhân khoa học máy tính, cần đủ tín chỉ lý thuyết, toán và lập trình.",
+  "note": "",
+  "english": {
+   "o": 6.0,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "IELTS 6.0 (bắt buộc nộp TOEFL hoặc IELTS)"
+  },
+  "cost": {
+   "note": "Mức tài khoản phong tỏa €11,904 + phí học kỳ khoảng €324",
+   "range": [
+    12552,
+    12552
+   ]
+  },
+  "match": "tb",
+  "ver": "xm",
+  "src": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/7606/",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "transcript",
+    "degree",
+    "ielts",
+    "aps",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": [
+   {
+    "date": "2027-05-01",
+    "label": "Hạn kỳ đông cho người ngoài EU",
+    "kind": "close"
+   }
+  ],
+  "aps": "required"
+ },
+ {
+  "id": "ovgu",
+  "name": "Magdeburg – MSc Data and Knowledge Engineering",
+  "country": "Đức",
+  "region": "chau-au",
+  "type": "Học phí thấp hoặc miễn",
+  "level": "Thạc sĩ",
+  "fund": "mien",
+  "spring": "thu",
+  "amount": "Không học phí; phí học kỳ €277.90",
+  "deadline": "2027-05-15",
+  "dtext": "Kỳ đông 15/5; kỳ hè 15/11 (cần chứng chỉ APS trước hạn)",
+  "intake": "10/2027",
+  "cond": "Học bằng tiếng Anh hoặc tiếng Đức.",
+  "note": "",
+  "english": {
+   "o": 7.0,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "C1 ≈ IELTS 7.0 tổng"
+  },
+  "cost": {
+   "note": "Mức tài khoản phong tỏa €11,904 + phí học kỳ €277.90",
+   "range": [
+    12460,
+    12460
+   ]
+  },
+  "match": "tb",
+  "ver": "th",
+  "src": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4429",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "transcript",
+    "degree",
+    "ielts",
+    "aps",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": [
+   {
+    "date": "2027-05-15",
+    "label": "Hạn kỳ đông",
+    "kind": "close"
+   }
+  ],
+  "aps": "required"
+ },
+ {
+  "id": "ilmenau",
+  "name": "TU Ilmenau – MSc Research in Computer & Systems Engineering",
+  "country": "Đức",
+  "region": "chau-au",
+  "type": "Học phí thấp hoặc miễn",
+  "level": "Thạc sĩ",
+  "fund": "mien",
+  "spring": "thu",
+  "amount": "Không học phí; phí học kỳ khoảng €150",
+  "deadline": "2027-05-15",
+  "dtext": "Người ngoài EU: kỳ đông 16/1 – 15/5; kỳ hè 1/8 – 15/11",
+  "intake": "10/2027",
+  "cond": "Cử nhân CS hoặc kỹ thuật máy tính từ 180 ECTS. Học 100% bằng tiếng Anh.",
+  "note": "",
+  "english": {
+   "o": 7.0,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "C1 (IELTS 7)"
+  },
+  "cost": {
+   "note": "Mức tài khoản phong tỏa €11,904 + phí học kỳ khoảng €150",
+   "range": [
+    12204,
+    12204
+   ]
+  },
+  "match": "tb",
+  "ver": "th",
+  "src": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4092",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "transcript",
+    "degree",
+    "ielts",
+    "aps",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": [
+   {
+    "date": "2027-01-16",
+    "label": "Mở kỳ đông",
+    "kind": "open"
+   },
+   {
+    "date": "2027-05-15",
+    "label": "Hạn kỳ đông",
+    "kind": "close"
+   }
+  ],
+  "aps": "required"
+ },
+ {
+  "id": "goettingen",
+  "name": "Göttingen – MSc Applied Computer Science",
+  "country": "Đức",
+  "region": "chau-au",
+  "type": "Học phí thấp hoặc miễn",
+  "level": "Thạc sĩ",
+  "fund": "mien",
+  "spring": "thu",
+  "amount": "Không học phí; phí học kỳ khoảng €400",
+  "deadline": "2027-04-15",
+  "dtext": "Người ngoài EU: kỳ đông 15/4; kỳ hè 15/10 (vừa qua)",
+  "intake": "10/2027",
+  "cond": "Cần ít nhất 90 ECTS nền tảng, trong đó từ 60 ECTS CS và từ 15 ECTS toán, khoa học tự nhiên; bài kiểm tra năng lực trực tuyến bắt buộc và phỏng vấn video.",
+  "note": "Dạy bằng tiếng Anh và tiếng Đức; kiểm tra các môn chỉ có tiếng Đức.",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Cần chứng chỉ quốc tế đạt mức tối thiểu (trang không nêu điểm)"
+  },
+  "cost": {
+   "note": "Mức tài khoản phong tỏa €11,904 + phí học kỳ khoảng €400",
+   "range": [
+    12704,
+    12704
+   ]
+  },
+  "match": "tb",
+  "ver": "th",
+  "src": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4700",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "transcript",
+    "degree",
+    "ielts",
+    "aps",
+    "passport",
+    "test",
+    "submit"
+   ],
+   "labels": {
+    "test": "Bài kiểm tra năng lực + phỏng vấn video"
+   }
+  },
+  "events": [
+   {
+    "date": "2027-04-15",
+    "label": "Hạn kỳ đông cho người ngoài EU",
+    "kind": "close"
+   }
+  ],
+  "aps": "required"
+ },
+ {
+  "id": "marburg",
+  "name": "Marburg – MSc Data Science",
+  "country": "Đức",
+  "region": "chau-au",
+  "type": "Học phí thấp hoặc miễn",
+  "level": "Thạc sĩ",
+  "fund": "mien",
+  "spring": "thu",
+  "amount": "Không học phí; phí học kỳ khoảng €390",
+  "deadline": "",
+  "dtext": "Nhận cả kỳ hè và kỳ đông; xem trang hạn nộp của trường",
+  "intake": "10/2027",
+  "cond": "Cần ít nhất 144 ECTS lúc nộp; kiến thức sâu về CS và toán; nộp qua uni-assist.",
+  "note": "",
+  "english": {
+   "o": 7.0,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "C1 ≈ IELTS 7.0 tổng"
+  },
+  "cost": {
+   "note": "Mức tài khoản phong tỏa €11,904 + phí học kỳ khoảng €390",
+   "range": [
+    12684,
+    12684
+   ]
+  },
+  "match": "tb",
+  "ver": "th",
+  "src": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/9046",
+  "docs": {
+   "keys": [
+    "form",
+    "fee",
+    "cv",
+    "motivation",
+    "transcript",
+    "degree",
+    "ielts",
+    "aps",
+    "passport",
+    "submit"
+   ],
+   "labels": {
+    "form": "Hồ sơ trên uni-assist",
+    "fee": "Phí uni-assist €75"
+   }
+  },
+  "events": [],
+  "fee": {
+   "amt": 75,
+   "cur": "EUR",
+   "group": "uniassist",
+   "note": "uni-assist: €75 hồ sơ đầu, €30 mỗi hồ sơ thêm"
+  },
+  "aps": "required"
+ },
+ {
+  "id": "koblenz",
+  "name": "Koblenz – MSc Web and Data Science",
+  "country": "Đức",
+  "region": "chau-au",
+  "type": "Học phí thấp hoặc miễn",
+  "level": "Thạc sĩ",
+  "fund": "mien",
+  "spring": "thu",
+  "amount": "Trang không nêu học phí",
+  "deadline": "2027-06-15",
+  "dtext": "Chỉ kỳ đông; người ngoài EU 15/6 (trường khuyên nộp trước 15/5)",
+  "intake": "10/2027",
+  "cond": "Điểm tốt nghiệp từ 2.5 (thang Đức) trở lên; thư động lực; ưu tiên có khóa luận.",
+  "note": "",
+  "english": {
+   "o": 6.5,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "IELTS 6.5 tổng; không nhận xác nhận học bằng tiếng Anh"
+  },
+  "cost": {
+   "note": "Mức tài khoản phong tỏa €11,904 + phí học kỳ (ước tính)",
+   "range": [
+    12500,
+    13000
+   ]
+  },
+  "match": "tb",
+  "ver": "xm",
+  "src": "https://uni-koblenz.de/en/degree-programs/web-and-data-science-msc",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "transcript",
+    "degree",
+    "ielts",
+    "aps",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": [
+   {
+    "date": "2027-05-15",
+    "label": "Trường khuyên nộp trước",
+    "kind": "other"
+   },
+   {
+    "date": "2027-06-15",
+    "label": "Hạn kỳ đông",
+    "kind": "close"
+   }
+  ],
+  "aps": "required"
+ },
+ {
+  "id": "siegen",
+  "name": "Siegen – MSc Computer Science",
+  "country": "Đức",
+  "region": "chau-au",
+  "type": "Học phí thấp hoặc miễn",
+  "level": "Thạc sĩ",
+  "fund": "mien",
+  "spring": "thu",
+  "amount": "Không thu phí xử lý hồ sơ; trang không nêu học phí",
+  "deadline": "",
+  "dtext": "Người ngoài EU chỉ nhập học kỳ đông; đợt 2026 mở 1/1, hạn 30/4",
+  "intake": "10/2027",
+  "cond": "Bài kiểm tra trực tuyến và phỏng vấn. APS nộp kèm hoặc chậm nhất khi nhập học.",
+  "note": "",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Cần chứng chỉ; không nhận xác nhận học bằng tiếng Anh"
+  },
+  "cost": {
+   "note": "Mức tài khoản phong tỏa €11,904 + phí học kỳ (ước tính)",
+   "range": [
+    12500,
+    13000
+   ]
+  },
+  "match": "tb",
+  "ver": "dk",
+  "src": "https://www.uni-siegen.de/node/6003",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "transcript",
+    "degree",
+    "ielts",
+    "aps",
+    "passport",
+    "test",
+    "submit"
+   ],
+   "labels": {
+    "test": "Bài kiểm tra trực tuyến + phỏng vấn"
+   }
+  },
+  "events": [
+   {
+    "date": "2027-01-01",
+    "label": "Mở nộp (theo đợt 2026)",
+    "kind": "open",
+    "est": true
+   },
+   {
+    "date": "2027-04-30",
+    "label": "Hạn nộp (theo đợt 2026)",
+    "kind": "close",
+    "est": true
+   }
+  ],
+  "fee": {
+   "amt": 0,
+   "cur": "EUR",
+   "note": "Trường không thu phí xử lý hồ sơ"
+  },
+  "aps": "late"
+ },
+ {
+  "id": "hpi",
+  "name": "HPI / Đại học Potsdam – MSc Computer Science",
+  "country": "Đức",
+  "region": "chau-au",
+  "type": "Học phí thấp hoặc miễn",
+  "level": "Thạc sĩ",
+  "fund": "mien",
+  "spring": "thu",
+  "amount": "Không học phí; chỉ đóng phí học kỳ của Đại học Potsdam",
+  "deadline": "2027-06-01",
+  "dtext": "Kỳ đông 1/6; kỳ hè 1/12 (cần chứng chỉ APS trước hạn)",
+  "intake": "10/2027",
+  "cond": "Chương trình dạy bằng tiếng Anh.",
+  "note": "",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Trang không nêu ngưỡng tiếng Anh"
+  },
+  "cost": {
+   "note": "Mức tài khoản phong tỏa €11,904 + phí học kỳ ĐH Potsdam (ước tính)",
+   "range": [
+    12500,
+    13000
+   ]
+  },
+  "match": "tb",
+  "ver": "th",
+  "src": "https://www.mygermanuniversity.com/universities/Hasso-Plattner-Institute-HPI/application-deadlines",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "transcript",
+    "degree",
+    "ielts",
+    "aps",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": [
+   {
+    "date": "2027-06-01",
+    "label": "Hạn kỳ đông",
+    "kind": "close"
+   }
+  ],
+  "aps": "required"
+ },
+ {
+  "id": "dit",
+  "name": "Deggendorf (DIT) – MSc Artificial Intelligence and Data Science",
+  "country": "Đức",
+  "region": "chau-au",
+  "type": "Học phí thấp hoặc miễn",
+  "level": "Thạc sĩ",
+  "fund": "mien",
+  "spring": "thu",
+  "amount": "Không học phí; người ngoài EU có phí hành chính từ 2025/26 (chưa rõ mức)",
+  "deadline": "",
+  "dtext": "Kỳ tháng 3 tại DIT: nộp 1/10 – 1/11 (đã qua cho 2027); kỳ đông nộp vào mùa xuân qua cổng của ĐH Nam Bohemia",
+  "intake": "10/2027 hoặc 3/2028",
+  "cond": "Cần ít nhất 90 ECTS CS (trong đó 18 ECTS AI hoặc dữ liệu) và bài thi đầu vào; học cùng ĐH Nam Bohemia (Séc). Là trường ứng dụng (Hochschule).",
+  "note": "",
+  "english": {
+   "o": 5.5,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "B2"
+  },
+  "cost": {
+   "note": "Mức tài khoản phong tỏa €11,904 + phí hội sinh viên €82/kỳ + phí hành chính chưa rõ",
+   "range": [
+    12100,
+    13500
+   ]
+  },
+  "match": "tb",
+  "ver": "th",
+  "src": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/7124",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "transcript",
+    "degree",
+    "ielts",
+    "aps",
+    "passport",
+    "test",
+    "submit"
+   ],
+   "labels": {
+    "test": "Bài thi đầu vào"
+   }
+  },
+  "events": [],
+  "aps": "required"
+ },
+ {
+  "id": "defree",
+  "name": "Đức – các trường công khác",
+  "country": "Đức",
+  "region": "chau-au",
+  "type": "Học phí thấp hoặc miễn",
+  "level": "Thạc sĩ",
+  "fund": "mien",
+  "spring": "thu",
+  "amount": "Phần lớn chỉ thu phí học kỳ. Baden-Württemberg thu €1,500/học kỳ; TUM thu €4,600 hoặc €6,800/học kỳ từ kỳ đông 2027/28",
+  "deadline": "",
+  "dtext": "Theo từng trường",
+  "intake": "10/2027",
+  "cond": "Cần chứng chỉ APS. Nhiều chương trình đòi GRE với bằng ngoài châu Âu (Saarland, Bayreuth, RWTH) hoặc khi điểm quy đổi kém hơn 1.5 (Paderborn).",
+  "note": "",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Thường IELTS 6.5–7.0; kiểm tra từng ngành"
+  },
+  "cost": {
+   "note": "Mức tài khoản phong tỏa €11,904 + phí học kỳ tuỳ trường",
+   "range": [
+    12200,
+    13500
+   ]
+  },
+  "match": "tb",
+  "ver": "xm",
+  "src": "https://www.tum.de/en/studies/fees/tuition",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "transcript",
+    "degree",
+    "ielts",
+    "aps",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": [],
+  "aps": "required"
+ },
+ {
+  "id": "tuwien",
+  "name": "TU Wien – MSc Data Science, Logic and AI và các ngành máy tính",
+  "country": "Áo",
+  "region": "chau-au",
+  "type": "Học phí thấp hoặc miễn",
+  "level": "Thạc sĩ",
+  "fund": "mien",
+  "spring": "thu",
+  "amount": "Học phí €726.72/học kỳ với người ngoài EU (theo trang học phí của TU Wien)",
+  "deadline": "2027-01-15",
+  "dtext": "Kỳ hè 2027: nên nộp đủ trước 15/1; kỳ đông: trước 15/7",
+  "intake": "10/2027",
+  "cond": "Hồ sơ giấy gửi bưu điện hoặc nộp trực tiếp, bằng và bảng điểm phải hợp pháp hóa lãnh sự kèm bản dịch; xét 10–12 tuần; tối đa 2 hồ sơ. Không có kỳ thi đầu vào.",
+  "note": "Kỳ hè 2027 (tháng 3) khó kịp giấy phép cư trú (xét 90 ngày), nên coi là đường kỳ đông.",
+  "english": {
+   "o": 5.5,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "B2 (bản sao hợp pháp hóa)"
+  },
+  "cost": {
+   "note": "Học phí €726.72/học kỳ + mức chứng minh của Áo",
+   "rule": "at",
+   "award": 0,
+   "tuition": 1453
+  },
+  "match": "tb",
+  "ver": "xm",
+  "src": "https://www.tuwien.at/en/studies/admission/masters-programmes/other-inter-national-bachelors-degree",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "transcript",
+    "degree",
+    "legal",
+    "ielts",
+    "passport",
+    "hardcopy",
+    "submit"
+   ],
+   "labels": {
+    "hardcopy": "Gửi hồ sơ giấy qua bưu điện"
+   }
+  },
+  "events": [
+   {
+    "date": "2027-01-15",
+    "label": "Nên nộp đủ trước, kỳ hè 2027",
+    "kind": "close"
+   },
+   {
+    "date": "2027-07-15",
+    "label": "Nên nộp đủ trước, kỳ đông",
+    "kind": "close"
+   }
+  ]
+ },
+ {
+  "id": "univie",
+  "name": "Đại học Vienna – MSc Data Science",
+  "country": "Áo",
+  "region": "chau-au",
+  "type": "Học phí thấp hoặc miễn",
+  "level": "Thạc sĩ",
+  "fund": "mien",
+  "spring": "thu",
+  "amount": "Học phí theo quy định Áo cho người ngoài EU; nộp hồ sơ miễn phí",
+  "deadline": "",
+  "dtext": "Mỗi năm một đợt; đợt 2026/27 nộp 2/3 – 7/4/2026. Trường khuyên bắt đầu kỳ đông",
+  "intake": "10/2027",
+  "cond": "40 chỗ mỗi năm; không có GPA tối thiểu. Hội đồng xếp hạng theo thư động lực (viết theo mẫu của trường) và nền tảng toán, thống kê, CS.",
+  "note": "",
+  "english": {
+   "o": 5.5,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "B2; danh sách chứng chỉ ở trang studieren.univie.ac.at"
+  },
+  "cost": {
+   "note": "Học phí khoảng €726.72/học kỳ + mức chứng minh của Áo",
+   "rule": "at",
+   "award": 0,
+   "tuition": 1453
+  },
+  "match": "tb",
+  "ver": "xm",
+  "src": "https://datascience.univie.ac.at/masters/master-data-science/admission-data-science/",
+  "docs": {
+   "keys": [
+    "form",
+    "motivation",
+    "cv",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {
+    "motivation": "Thư động lực theo mẫu của trường"
+   }
+  },
+  "events": [
+   {
+    "date": "2027-03-02",
+    "label": "Mở nộp (theo đợt 2026)",
+    "kind": "open",
+    "est": true
+   },
+   {
+    "date": "2027-04-07",
+    "label": "Hạn nộp (theo đợt 2026)",
+    "kind": "close",
+    "est": true
+   }
+  ],
+  "fee": {
+   "amt": 0,
+   "cur": "EUR",
+   "note": "Nộp miễn phí"
+  },
+  "comp": {
+   "awards": 40,
+   "text": "40 chỗ mỗi năm"
+  }
+ },
+ {
+  "id": "jku",
+  "name": "JKU Linz – MSc Artificial Intelligence / Computer Science",
+  "country": "Áo",
+  "region": "chau-au",
+  "type": "Học phí thấp hoặc miễn",
+  "level": "Thạc sĩ",
+  "fund": "mien",
+  "spring": "thu",
+  "amount": "Học phí luật định cho người ngoài EU (mức tham chiếu của TU Wien: €726.72/học kỳ)",
+  "deadline": "",
+  "dtext": "Kỳ đông 5/9, kỳ hè 5/2; người ngoài EU nên nộp sớm vì thủ tục có thể quá 6 tháng",
+  "intake": "10/2027",
+  "cond": "Cử nhân phải trùng ít nhất 80% chương trình của JKU; bù tối đa 20 ECTS.",
+  "note": "",
+  "english": {
+   "o": 5.5,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "B2"
+  },
+  "cost": {
+   "note": "Học phí khoảng €726.72/học kỳ + mức chứng minh của Áo",
+   "rule": "at",
+   "award": 0,
+   "tuition": 1453
+  },
+  "match": "tb",
+  "ver": "xm",
+  "src": "https://cs.jku.at/master/admissionFAQs.html",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "transcript",
+    "degree",
+    "legal",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": []
+ },
+ {
+  "id": "galilean",
+  "name": "Padova – Scuola Galileiana (Galilean School)",
+  "country": "Ý",
+  "region": "chau-au",
+  "type": "Học bổng trường",
+  "level": "Thạc sĩ",
+  "fund": "mot",
+  "spring": "thu",
+  "amount": "Miễn phí ăn ở, khóa ngoại ngữ, kèm cặp học tập; có thể thêm trợ cấp và hoàn vé",
+  "deadline": "",
+  "dtext": "Trang đọc được ghi đợt 25/3 – 31/5/2025; đợt 2027 chưa công bố",
+  "intake": "10/2027",
+  "cond": "Dưới 25 tuổi khi nộp. Phải được nhận hoặc đủ điều kiện vào một thạc sĩ của Padova. Một thư giới thiệu gửi thẳng cho trường.",
+  "note": "Cộng thêm được với lộ trình Padova.",
+  "english": {
+   "o": 6.0,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Theo chương trình thạc sĩ của Padova (B2)"
+  },
+  "cost": {
+   "note": "Miễn ăn ở; học phí theo chương trình Padova",
+   "range": null
+  },
+  "match": "cao",
+  "ver": "xm",
+  "src": "https://www.unipd.it/en/sgss-bando-internazionali",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "lor1",
+    "transcript",
+    "degree",
+    "passport",
+    "test",
+    "submit"
+   ],
+   "labels": {
+    "test": "Thi tuyển / phỏng vấn"
+   }
+  },
+  "events": []
+ },
+ {
+  "id": "bicocca",
+  "name": "Milano-Bicocca – Bicocca International Scholarship (BISP)",
+  "country": "Ý",
+  "region": "chau-au",
+  "type": "Học bổng trường",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "€10,000/năm (gộp) + miễn học phí; 5 suất mỗi ngành; gia hạn đến 2 năm",
+  "deadline": "",
+  "dtext": "Đợt 2026/27: phải được xác nhận trúng tuyển trước 15/3/2026; đợt 2027/28 dự kiến tương tự",
+  "intake": "10/2027",
+  "cond": "Có Data Science, AI for Science and Technology và Human-centered AI (không có Computer Science). Ngành tự do đăng ký được xếp theo thành tích học tập; tài liệu không nhắc GRE. Vẫn đóng phí hành chính và thuế vùng.",
+  "note": "Muốn giữ học bổng năm hai phải đạt 40 ECTS trước tháng 11 và 60 ECTS trước tháng 3 năm sau (quy định đợt 2026/27).",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Theo chương trình"
+  },
+  "cost": {
+   "note": "€10,000 gộp + miễn học phí; còn đóng phí hành chính và thuế vùng",
+   "range": [
+    500,
+    2000
+   ]
+  },
+  "match": "cao",
+  "ver": "xm",
+  "src": "https://en.unimib.it/sites/sten/files/2026-01/Bando%20BISP%202026_2027.pdf",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": [],
+  "comp": {
+   "awards": 5,
+   "text": "5 suất mỗi ngành"
+  }
+ },
+ {
+  "id": "cafoscari",
+  "name": "Ca' Foscari Venezia – Honours Scholarships",
+  "country": "Ý",
+  "region": "chau-au",
+  "type": "Học bổng trường",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "€10,000/năm; 20 suất thạc sĩ; 2 năm",
+  "deadline": "",
+  "dtext": "Hạn chưa nêu; xem thông báo chính thức của trường",
+  "intake": "9/2027",
+  "cond": "Cho sinh viên quốc tế vào chương trình dạy bằng tiếng Ý hoặc tiếng Anh.",
+  "note": "",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Theo chương trình"
+  },
+  "cost": {
+   "note": "€10,000/năm; chưa rõ có miễn học phí",
+   "range": [
+    200,
+    3000
+   ]
+  },
+  "match": "tb",
+  "ver": "th",
+  "src": "https://consnewyork.esteri.it/en/news/dal_consolato/2026/02/scholarships-for-international-talents-at-ca-foscari-university-of-venice/",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": [],
+  "comp": {
+   "awards": 20,
+   "text": "20 suất thạc sĩ"
+  }
+ },
+ {
+  "id": "trento",
+  "name": "Trento – MSc Data Science (và các thạc sĩ khác)",
+  "country": "Ý",
+  "region": "chau-au",
+  "type": "Học bổng trường",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "Điểm xét tuyển từ 90/100: miễn học phí + khoản hỗ trợ (bài tổng hợp ghi €7,200/năm); 70–89.9 điểm: học phí €1,000",
+  "deadline": "",
+  "dtext": "Đợt 2026/27 cho người ngoài EU: 17/12/2025 – 4/3/2026; đợt 2027/28 dự kiến tương tự",
+  "intake": "9/2027",
+  "cond": "Không đòi GRE. Ngành DS đòi 6 ECTS khối xã hội, kinh tế hoặc luật (SPS, SECS-P, M-PSI, IUS); kiểm tra bảng điểm.",
+  "note": "",
+  "english": {
+   "o": 5.5,
+   "b": null,
+   "moi": true,
+   "opt": false,
+   "text": "B2; nhận giấy xác nhận cử nhân dạy bằng tiếng Anh"
+  },
+  "cost": {
+   "note": "Từ 90 điểm: miễn học phí + hỗ trợ; 70–89.9 điểm: học phí €1,000, tự lo sinh hoạt",
+   "range": [
+    3000,
+    11200
+   ]
+  },
+  "match": "cao",
+  "ver": "xm",
+  "src": "https://corsi.unitn.it/sites/cds/files/2025-12/admission-call-master-data-science-26-27.pdf",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "transcript",
+    "degree",
+    "moi",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": []
+ },
+ {
+  "id": "polimi",
+  "name": "Politecnico di Milano – Merit Scholarships",
+  "country": "Ý",
+  "region": "chau-au",
+  "type": "Học bổng trường",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "Platinum €10,000 hoặc Gold €8,000/năm + miễn học phí",
+  "deadline": "",
+  "dtext": "Theo đợt 2024–25: vòng 1 từ 15/1 đến 1/3; vòng 2 tháng 4; vòng 3 tháng 5–6",
+  "intake": "9/2027",
+  "cond": "Hội đồng xét câu trả lời về động lực. Ưu tiên nữ ở một số ngành kỹ thuật. Không cộng với học bổng khác của trường.",
+  "note": "",
+  "english": {
+   "o": 6.0,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "IELTS ≥ 6, không đòi điểm từng kỹ năng"
+  },
+  "cost": {
+   "note": "€8,000–10,000 + miễn học phí so với mức chứng minh €10,180",
+   "range": [
+    200,
+    2200
+   ]
+  },
+  "match": "tb",
+  "ver": "xm",
+  "src": "https://2023.polimi.it/fileadmin/user_upload/futuri_studenti/borse-di-studio/Call_International_Merit_Scholarships_2024-2025.pdf",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": []
+ },
+ {
+  "id": "iyt",
+  "name": "Invest Your Talent in Italy",
+  "country": "Ý",
+  "region": "chau-au",
+  "type": "Học bổng chính phủ",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "€10,800/năm (9 tháng) + miễn học phí",
+  "deadline": "",
+  "dtext": "Đợt trước: 20/4 – 11/5/2026; đợt sau mở đầu năm 2027",
+  "intake": "9/2027",
+  "cond": "Việt Nam đủ điều kiện; có CS và DS của Padova. Bắt buộc thực tập 3 tháng ở công ty Ý. Đợt 2025/26: 74 suất trên 1,757 hồ sơ.",
+  "note": "",
+  "english": {
+   "o": 5.5,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Theo chương trình (B2)"
+  },
+  "cost": {
+   "note": "€10,800/năm + miễn học phí",
+   "range": [
+    0,
+    0
+   ]
+  },
+  "match": "tb",
+  "ver": "xm",
+  "src": "https://investyourtalentapplication.esteri.it/SitoIYT/EN/invest-your-talent-in-italy",
+  "docs": {
+   "keys": [
+    "admit",
+    "form",
+    "cv",
+    "motivation",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {
+    "admit": "Đăng ký vào chương trình thạc sĩ ở Ý"
+   }
+  },
+  "events": [],
+  "comp": {
+   "rate": 0.042,
+   "text": "2025/26: 74 suất trên 1,757 hồ sơ"
+  }
+ },
+ {
+  "id": "maeci",
+  "name": "MAECI – Học bổng Chính phủ Ý",
+  "country": "Ý",
+  "region": "chau-au",
+  "type": "Học bổng chính phủ",
+  "level": "Thạc sĩ",
+  "fund": "mot",
+  "spring": "thu",
+  "amount": "€900/tháng theo trang Padova (IIC Bangkok ghi €1,200 cho 2026–27), từ 6 đến 9 tháng",
+  "deadline": "",
+  "dtext": "Đợt trước: 26/3/2026; đợt sau dự kiến cuối tháng 3/2027",
+  "intake": "11/2027",
+  "cond": "Tối đa 28 tuổi. Kiểm tra Việt Nam trong phụ lục danh sách nước.",
+  "note": "Có điều khoản không hưởng cùng lúc một số học bổng khác.",
+  "english": {
+   "o": 5.5,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Theo chương trình (B2)"
+  },
+  "cost": {
+   "note": "Trợ cấp €900–1,200/tháng trong 6–9 tháng; học phí tuỳ trường",
+   "range": [
+    0,
+    4000
+   ]
+  },
+  "match": "tb",
+  "ver": "xm",
+  "src": "https://studyinitaly.esteri.it/",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": []
+ },
+ {
+  "id": "dsu",
+  "name": "Học bổng vùng DSU (Ý)",
+  "country": "Ý",
+  "region": "chau-au",
+  "type": "Học bổng chính phủ",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "Theo thu nhập gia đình",
+  "deadline": "",
+  "dtext": "Thường mùa hè, theo từng vùng",
+  "intake": "9/2027",
+  "cond": "Việt Nam không thuộc danh sách nước đặc biệt nghèo 2026/27, nên phải nộp giấy tờ thu nhập và tài sản gia đình (ISEE parificato).",
+  "note": "",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": false,
+   "opt": true,
+   "text": "Không áp dụng"
+  },
+  "cost": {
+   "note": "Theo thu nhập gia đình",
+   "range": null
+  },
+  "match": "tb",
+  "ver": "xm",
+  "src": "https://www.unipd.it/en/servizi/supporto-studio/borse-premi-studio/borse-studio-alloggi-sussidi-straordinari",
+  "docs": {
+   "keys": [
+    "form",
+    "funds",
+    "passport",
+    "submit"
+   ],
+   "labels": {
+    "funds": "Giấy tờ thu nhập, tài sản gia đình (ISEE)"
+   }
+  },
+  "events": []
+ },
+ {
+  "id": "polito",
+  "name": "Politecnico di Torino – ENI MINDS và học bổng trường",
+  "country": "Ý",
+  "region": "chau-au",
+  "type": "Học bổng trường",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "Toàn phần theo bài đăng 2026; chưa đọc chi tiết",
+  "deadline": "",
+  "dtext": "Chưa xác minh cho 2027",
+  "intake": "9/2027",
+  "cond": "Kiểm tra ngành nào được xét.",
+  "note": "",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Chưa kiểm tra"
+  },
+  "cost": {
+   "note": "Chưa đọc chi tiết",
+   "range": null
+  },
+  "match": "tb",
+  "ver": "th",
+  "src": "https://jobs.neu.edu.vn/posts/italy-hoc-bong-toan-phan-bac-thac-si-eni-minds-tai-truong-dai-hoc-politecnico-di-torino-2026-202608241445",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": []
+ },
+ {
+  "id": "ediss",
+  "name": "Erasmus Mundus EDISS (Data-intensive Intelligent Software Systems)",
+  "country": "Phần Lan (Åbo Akademi điều phối) và đối tác",
+  "region": "chau-au",
+  "type": "Erasmus Mundus",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "Mức Erasmus Mundus và học bổng EDISS",
+  "deadline": "2027-01-12",
+  "dtext": "Mở 16/11/2026, đóng 15:00 giờ Helsinki",
+  "intake": "8/2027",
+  "cond": "Không đặt GPA tối thiểu. Có vòng học bổng miễn học phí riêng từ 25/2 đến 11/3/2027.",
+  "note": "",
+  "english": {
+   "o": 6.5,
+   "b": 6.0,
+   "moi": false,
+   "opt": false,
+   "text": "IELTS 6.5, không kỹ năng nào dưới 6.0"
+  },
+  "cost": {
+   "note": "Học bổng Erasmus Mundus gồm sinh hoạt và phí tham gia",
+   "range": [
+    0,
+    0
+   ]
+  },
+  "match": "cao",
+  "ver": "xm",
+  "src": "https://www.master-ediss.eu/admission-requirements/",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "video",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {
+    "cv": "CV theo mẫu EDISS",
+    "video": "Video động lực 2 phút"
+   }
+  },
+  "events": [
+   {
+    "date": "2026-11-16",
+    "label": "Mở vòng học bổng",
+    "kind": "open"
+   },
+   {
+    "date": "2027-01-12",
+    "label": "Hạn vòng học bổng, 15:00 giờ Helsinki",
+    "kind": "close"
+   },
+   {
+    "date": "2027-02-25",
+    "label": "Mở vòng miễn học phí",
+    "kind": "open"
+   },
+   {
+    "date": "2027-03-11",
+    "label": "Hạn vòng miễn học phí",
+    "kind": "close"
+   }
+  ],
+  "docsText": "CV theo mẫu EDISS (tối đa 2 mục học vấn, 4 mục việc làm); hai thư giới thiệu học thuật có chữ ký; video động lực 2 phút (±30 giây), không có thư động lực; bản sao công trình, chứng nhận công việc."
+ },
+ {
+  "id": "emai",
+  "name": "Erasmus Mundus EMAI (Artificial Intelligence)",
+  "country": "Tây Ban Nha, Ý, Hà Lan, Slovenia",
+  "region": "chau-au",
+  "type": "Erasmus Mundus",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "Mức Erasmus Mundus: €1,400/tháng kèm phí tham gia",
+  "deadline": "",
+  "dtext": "Mở 15/11/2026; hạn xét học bổng xem trang Scholarships & Fees (đợt tự túc kéo dài đến 5/6/2027)",
+  "intake": "9/2027",
+  "cond": "Đối tác: UPF Barcelona, Sapienza, Radboud, Ljubljana. Theo quy định chung của Erasmus Mundus, mỗi quốc tịch tối đa 10% suất học bổng.",
+  "note": "Chứng chỉ phải đạt mọi ngưỡng ngay lúc nộp.",
+  "english": {
+   "o": 6.5,
+   "b": 6.5,
+   "moi": false,
+   "opt": false,
+   "text": "IELTS 6.5 tổng và mọi kỹ năng ≥ 6.5 (C1); trang ghi không có ngoại lệ hay miễn trừ"
+  },
+  "cost": {
+   "note": "Học bổng Erasmus Mundus gồm sinh hoạt và phí tham gia",
+   "range": [
+    0,
+    0
+   ]
+  },
+  "match": "cao",
+  "ver": "xm",
+  "src": "https://www.upf.edu/web/emai/access-admission",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": [
+   {
+    "date": "2026-11-15",
+    "label": "Mở nộp",
+    "kind": "open"
+   },
+   {
+    "date": "2027-06-05",
+    "label": "Hạn đợt tự túc",
+    "kind": "other"
+   }
+  ]
+ },
+ {
+  "id": "deai",
+  "name": "Erasmus Mundus DEAI (Data Engineering & AI)",
+  "country": "Bỉ → Tây Ban Nha → Áo, Ý hoặc Pháp",
+  "region": "chau-au",
+  "type": "Erasmus Mundus",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "€1,400/tháng, tối đa 24 tháng, kèm phí tham gia",
+  "deadline": "",
+  "dtext": "Đợt 2027 chưa công bố (đợt trước: 12:00 GMT, 13/1/2026)",
+  "intake": "9/2027",
+  "cond": "Thang điểm tính cả kinh nghiệm làm việc IT/BI và chỉ số h của người viết thư giới thiệu. Mẫu tự đánh giá không được sửa.",
+  "note": "Giờ dạy tiếng Anh không được tính vào mục kinh nghiệm IT/BI.",
+  "english": {
+   "o": 5.5,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "IELTS 5.5"
+  },
+  "cost": {
+   "note": "Học bổng Erasmus Mundus gồm sinh hoạt và phí tham gia",
+   "range": [
+    0,
+    0
+   ]
+  },
+  "match": "tb",
+  "ver": "xm",
+  "src": "https://deai.ulb.be/home/students/admission/",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "selfeval",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {
+    "selfeval": "Mẫu tự đánh giá (không sửa mẫu)"
+   }
+  },
+  "events": [
+   {
+    "date": "2027-01-13",
+    "label": "Hạn nộp (theo đợt trước)",
+    "kind": "close",
+    "est": true
+   }
+  ]
+ },
+ {
+  "id": "ipcvai",
+  "name": "Erasmus Mundus IPCVai (Image Processing & Computer Vision AI)",
+  "country": "Hungary → Tây Ban Nha → Pháp",
+  "region": "chau-au",
+  "type": "Erasmus Mundus",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "Mức Erasmus Mundus; có thêm suất giảm nửa học phí",
+  "deadline": "2027-02-02",
+  "dtext": "Mở từ 1/11/2026",
+  "intake": "9/2027",
+  "cond": "Thiên về thị giác máy tính.",
+  "note": "",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Chưa kiểm tra"
+  },
+  "cost": {
+   "note": "Nếu có học bổng Erasmus Mundus",
+   "range": [
+    0,
+    0
+   ]
+  },
+  "match": "tb",
+  "ver": "xm",
+  "src": "http://ipcv.eu/",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": [
+   {
+    "date": "2026-11-01",
+    "label": "Mở nộp",
+    "kind": "open"
+   },
+   {
+    "date": "2027-02-02",
+    "label": "Hạn nộp",
+    "kind": "close"
+   }
+  ]
+ },
+ {
+  "id": "mathsdisc",
+  "name": "Erasmus Mundus MATHS-DISC (Modelling, Simulation & Data Science)",
+  "country": "Ý, Đức, Ukraine, Bồ Đào Nha, Pháp",
+  "region": "chau-au",
+  "type": "Erasmus Mundus",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "Mức Erasmus Mundus",
+  "deadline": "",
+  "dtext": "Trang chưa có lịch 2027",
+  "intake": "9/2027",
+  "cond": "2 năm, 8 hướng chuyên sâu cho chuyển đổi số và xanh.",
+  "note": "",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Chưa kiểm tra"
+  },
+  "cost": {
+   "note": "Nếu có học bổng Erasmus Mundus",
+   "range": [
+    0,
+    0
+   ]
+  },
+  "match": "tb",
+  "ver": "xm",
+  "src": "https://mathsdisc.eu/",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": []
+ },
+ {
+  "id": "emdata",
+  "name": "Erasmus Mundus khác gần dữ liệu: SE4GD, NeuroData, CoDaS, SITeS-JM",
+  "country": "Nhiều nước EU",
+  "region": "chau-au",
+  "type": "Erasmus Mundus",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "Mức Erasmus Mundus",
+  "deadline": "",
+  "dtext": "Chưa xác minh; thường hạn tháng 12 – tháng 2",
+  "intake": "9/2027",
+  "cond": "Kỹ nghệ phần mềm xanh, dữ liệu thần kinh học, truyền thông và dữ liệu, CNTT cho xã hội.",
+  "note": "",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Chưa kiểm tra"
+  },
+  "cost": {
+   "note": "Nếu có học bổng Erasmus Mundus",
+   "range": [
+    0,
+    0
+   ]
+  },
+  "match": "tb",
+  "ver": "dk",
+  "src": "https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": []
+ },
+ {
+  "id": "emother",
+  "name": "Erasmus Mundus xa hướng hơn: EMLDS, MULTICOM, IMAGING, IMLEX, an ninh mạng, robot",
+  "country": "Nhiều nước EU",
+  "region": "chau-au",
+  "type": "Erasmus Mundus",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "Mức Erasmus Mundus",
+  "deadline": "",
+  "dtext": "Chưa xác minh",
+  "intake": "9/2027",
+  "cond": "Dữ liệu ngôn ngữ, giao tiếp đa phương thức, ảnh, CYBERUS, CyberMACS, CYBERSURE, SECCLO, IFROS, MIR, EMECS.",
+  "note": "",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Chưa kiểm tra"
+  },
+  "cost": {
+   "note": "Nếu có học bổng Erasmus Mundus",
+   "range": [
+    0,
+    0
+   ]
+  },
+  "match": "thap",
+  "ver": "dk",
+  "src": "https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": []
+ },
+ {
+  "id": "eit",
+  "name": "EIT Digital Master School",
+  "country": "Nhiều nước EU",
+  "region": "chau-au",
+  "type": "Học bổng chương trình",
+  "level": "Thạc sĩ",
+  "fund": "mot",
+  "spring": "thu",
+  "amount": "Miễn học phí và trợ cấp cho một số ứng viên; mức chưa xác minh",
+  "deadline": "",
+  "dtext": "Chưa xác minh",
+  "intake": "9/2027",
+  "cond": "Thạc sĩ học ở hai nước: Data Science, AI, Cybersecurity.",
+  "note": "Trang học bổng báo lỗi khi truy cập.",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Chưa kiểm tra"
+  },
+  "cost": {
+   "note": "Tuỳ mức học bổng",
+   "range": null
+  },
+  "match": "tb",
+  "ver": "dk",
+  "src": "https://masterschool.eitdigital.eu/scholarships",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": []
+ },
+ {
+  "id": "unige",
+  "name": "Đại học Geneva – Excellence Master Fellowships",
+  "country": "Thụy Sĩ",
+  "region": "chau-au",
+  "type": "Học bổng trường",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "CHF 10,000–15,000/năm",
+  "deadline": "",
+  "dtext": "Đợt 2026 hạn 28/2/2026; đợt 2027 dự kiến cuối tháng 2",
+  "intake": "9/2027",
+  "cond": "Khoa Khoa học, có ngành Computer Science.",
+  "note": "",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Chưa kiểm tra"
+  },
+  "cost": {
+   "note": "CHF 10,000–15,000/năm so với chi phí sống ở Geneva (ước tính)",
+   "range": [
+    11000,
+    17000
+   ]
+  },
+  "match": "tb",
+  "ver": "xm",
+  "src": "https://www.unige.ch/sciences/en/enseignements/formations/masters/excellencemasterfellowships/",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": []
+ },
+ {
+  "id": "leiden",
+  "name": "Leiden – MSc Computer Science (AI) + LExS",
+  "country": "Hà Lan",
+  "region": "chau-au",
+  "type": "Học bổng trường",
+  "level": "Thạc sĩ",
+  "fund": "mot",
+  "spring": "thu",
+  "amount": "LExS giảm một phần hoặc toàn bộ học phí",
+  "deadline": "",
+  "dtext": "Chưa xác minh hạn 2027",
+  "intake": "9/2027",
+  "cond": "Không đòi GRE.",
+  "note": "",
+  "english": {
+   "o": 6.5,
+   "b": 6.0,
+   "moi": false,
+   "opt": false,
+   "text": "IELTS 6.5, mỗi kỹ năng ≥ 6.0"
+  },
+  "cost": {
+   "note": "Mức chứng minh €13,569 + phần học phí LExS không trả",
+   "range": [
+    13569,
+    25000
+   ]
+  },
+  "match": "tb",
+  "ver": "xm",
+  "src": "https://www.universiteitleiden.nl/en/education/study-programmes/master/computer-science/artificial-intelligence/admission-and-application/admission-requirements",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": []
+ },
+ {
+  "id": "utrecht",
+  "name": "Utrecht – Excellence Scholarship",
+  "country": "Hà Lan",
+  "region": "chau-au",
+  "type": "Học bổng trường",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "Học phí, có thể kèm sinh hoạt; chưa xác minh cho 2027",
+  "deadline": "2027-02-01",
+  "dtext": "Ứng viên xin học bổng nộp trước 1/2; người ngoài EU 1/4 (theo trang Applied Data Science)",
+  "intake": "9/2027",
+  "cond": "Chỉ một số chương trình được xét.",
+  "note": "",
+  "english": {
+   "o": 6.5,
+   "b": 6.0,
+   "moi": false,
+   "opt": false,
+   "text": "IELTS 6.5, mỗi kỹ năng ≥ 6.0; không nhận One Skill Retake"
+  },
+  "cost": {
+   "note": "Đủ nếu học bổng kèm sinh hoạt; nếu chỉ học phí thì tự lo mức €13,569",
+   "range": [
+    0,
+    13569
+   ]
+  },
+  "match": "tb",
+  "ver": "xm",
+  "src": "https://www.uu.nl/en/masters/general-information/application-and-admission/english-language-requirements/emi-experienced",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": [
+   {
+    "date": "2027-02-01",
+    "label": "Hạn cho ứng viên học bổng",
+    "kind": "close"
+   }
+  ]
+ },
+ {
+  "id": "tue",
+  "name": "TU Eindhoven – Amandus H. Lundqvist Scholarship",
+  "country": "Hà Lan",
+  "region": "chau-au",
+  "type": "Học bổng trường",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "Học phí + sinh hoạt; mức chưa xác minh",
+  "deadline": "",
+  "dtext": "Chưa xác minh",
+  "intake": "9/2027",
+  "cond": "Có ngành Data Science and AI, Computer Science.",
+  "note": "Trang học bổng không mở được.",
+  "english": {
+   "o": 6.5,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "IELTS 6.5 tổng theo nguồn tổng hợp; chưa rõ điểm từng kỹ năng"
+  },
+  "cost": {
+   "note": "Học phí + sinh hoạt; mức chưa xác minh",
+   "range": [
+    0,
+    2000
+   ]
+  },
+  "match": "tb",
+  "ver": "dk",
+  "src": "https://www.tue.nl/en/education/become-a-tue-student/scholarships/amandus-h-lundqvist-scholarship-program",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": []
+ },
+ {
+  "id": "nlpartial",
+  "name": "Twente, Radboud – học bổng một phần",
+  "country": "Hà Lan",
+  "region": "chau-au",
+  "type": "Học bổng trường",
+  "level": "Thạc sĩ",
+  "fund": "mot",
+  "spring": "thu",
+  "amount": "Twente: tới €22,000; Radboud: một phần",
+  "deadline": "",
+  "dtext": "Chưa xác minh",
+  "intake": "9/2027",
+  "cond": "",
+  "note": "",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Chưa kiểm tra"
+  },
+  "cost": {
+   "note": "Học bổng một phần; sinh hoạt €13,569 tự lo",
+   "range": [
+    13569,
+    20000
+   ]
+  },
+  "match": "tb",
+  "ver": "th",
+  "src": "https://jobs.neu.edu.vn/posts/ha-lan-hoc-bong-ban-phan-len-toi-eur22000-bac-thac-si-uts-tai-truong-dai-hoc-twente-2027-202606290913",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": []
+ },
+ {
+  "id": "scienceleuven",
+  "name": "KU Leuven – Science@Leuven",
+  "country": "Bỉ",
+  "region": "chau-au",
+  "type": "Học bổng trường",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "Tới €12,000 cho năm đầu: học phí, bảo hiểm, sinh hoạt",
+  "deadline": "2027-02-15",
+  "dtext": "Theo nguồn tổng hợp",
+  "intake": "9/2027",
+  "cond": "Chưa từng học hoặc làm việc ở KU Leuven. Có thể gia hạn năm hai nếu năm đầu xuất sắc. Phải làm đại sứ cho chương trình.",
+  "note": "",
+  "english": {
+   "o": 7.0,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "IELTS tổng tối thiểu 7; chưa rõ điểm từng kỹ năng"
+  },
+  "cost": {
+   "note": "Tới €12,000 năm đầu cho học phí, bảo hiểm, sinh hoạt; mức chứng minh €12,744 (ước tính)",
+   "range": [
+    6000,
+    9000
+   ]
+  },
+  "match": "tb",
+  "ver": "th",
+  "src": "https://wet.kuleuven.be/english/scienceatleuvenscholarship",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": [
+   {
+    "date": "2027-02-15",
+    "label": "Hạn nộp",
+    "kind": "close"
+   }
+  ]
+ },
+ {
+  "id": "mastermind",
+  "name": "Master Mind Scholarships (Flanders)",
+  "country": "Bỉ",
+  "region": "chau-au",
+  "type": "Học bổng chính phủ",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "€10,225/năm + miễn học phí",
+  "deadline": "",
+  "dtext": "Đang được xem xét lại cho 2027–28",
+  "intake": "9/2027",
+  "cond": "Trang không nêu Việt Nam. Không cộng được với Erasmus Mundus.",
+  "note": "",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Theo trường"
+  },
+  "cost": {
+   "note": "€10,225 + miễn học phí so với mức chứng minh €12,744",
+   "range": [
+    2519,
+    2519
+   ]
+  },
+  "match": "tb",
+  "ver": "xm",
+  "src": "https://www.studyinflanders.be/scholarships/master-mind-scholarships",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": []
+ },
+ {
+  "id": "ireland",
+  "name": "Ireland – Trinity College Dublin và các trường khác + GOI-IES",
+  "country": "Ireland",
+  "region": "chau-au",
+  "type": "Học bổng chính phủ",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "GOI-IES: €10,000 + miễn học phí cho một năm; 60 suất",
+  "deadline": "",
+  "dtext": "Đợt trước: 12/3/2026; phải có thư mời nhập học khi nộp",
+  "intake": "9/2027",
+  "cond": "Thạc sĩ ở Ireland thường 1 năm. TCD đòi tối thiểu hạng II.1 và mở nhận hồ sơ từ 1/11. GOI-IES cần hai thư giới thiệu.",
+  "note": "",
+  "english": {
+   "o": 6.5,
+   "b": 6.0,
+   "moi": false,
+   "opt": false,
+   "text": "TCD: IELTS 6.5, mỗi kỹ năng ≥ 6.0"
+  },
+  "cost": {
+   "note": "GOI-IES: €10,000 + miễn học phí; mức chứng minh €10,000",
+   "range": [
+    0,
+    2000
+   ]
+  },
+  "match": "tb",
+  "ver": "xm",
+  "src": "https://www.tcd.ie/scss/courses/postgraduate/computer-science/application-requirements/",
+  "docs": {
+   "keys": [
+    "admit",
+    "form",
+    "cv",
+    "motivation",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {
+    "admit": "Thư mời nhập học của trường Ireland"
+   }
+  },
+  "events": [],
+  "comp": {
+   "awards": 60,
+   "text": "GOI-IES: 60 suất"
+  }
+ },
+ {
+  "id": "sisgp",
+  "name": "Swedish Institute – SI Scholarship for Global Professionals",
+  "country": "Thụy Điển",
+  "region": "chau-au",
+  "type": "Học bổng chính phủ",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "100% học phí + SEK 12,000/tháng + trợ cấp đi lại",
+  "deadline": "2027-02-25",
+  "dtext": "Dự kiến theo đợt 2026 (cổng mở 9–25/2/2026); phải nộp hồ sơ trường trước khoảng 15/1/2027",
+  "intake": "8/2027",
+  "cond": "Cần ít nhất 3,000 giờ làm việc có lương (toàn thời gian, bán thời gian hay tự do đều tính) từ tối đa 3 nơi, và có kinh nghiệm lãnh đạo.",
+  "note": "Giờ dạy tiếng Anh có lương có thể được tính nếu có xác nhận của nơi làm. Theo nguồn tổng hợp, Việt Nam có trong danh sách nước.",
+  "english": {
+   "o": 6.5,
+   "b": 5.5,
+   "moi": false,
+   "opt": false,
+   "text": "English 6: 6.5 tổng, không kỹ năng nào dưới 5.5"
+  },
+  "cost": {
+   "note": "100% học phí + SEK 12,000/tháng",
+   "range": [
+    0,
+    0
+   ]
+  },
+  "match": "tb",
+  "ver": "th",
+  "src": "https://opportunityinside.com/scholarships/si-scholarship-global-professionals-sweden-2027.html",
+  "docs": {
+   "keys": [
+    "form",
+    "fee",
+    "cv",
+    "motivation",
+    "workcert",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {
+    "fee": "Phí universityadmissions.se SEK 900",
+    "workcert": "Mẫu xác nhận 3,000 giờ làm việc và kinh nghiệm lãnh đạo"
+   }
+  },
+  "events": [
+   {
+    "date": "2027-01-15",
+    "label": "Nộp hồ sơ trường trước",
+    "kind": "other",
+    "est": true
+   },
+   {
+    "date": "2027-02-25",
+    "label": "Hạn cổng SISGP (dự kiến)",
+    "kind": "close",
+    "est": true
+   }
+  ],
+  "docsText": "Mẫu xác nhận kinh nghiệm làm việc và lãnh đạo của SI; tối đa 3 nơi làm việc; phí nộp hồ sơ trường SEK 900 không được hoàn.",
+  "fee": {
+   "amt": 900,
+   "cur": "SEK",
+   "group": "uhr",
+   "note": "Phí nộp hồ sơ trường, không hoàn lại"
+  }
+ },
+ {
+  "id": "kth",
+  "name": "KTH Scholarship",
+  "country": "Thụy Điển",
+  "region": "chau-au",
+  "type": "Học bổng trường",
+  "level": "Thạc sĩ",
+  "fund": "hocphi",
+  "spring": "thu",
+  "amount": "Học phí 2 năm (không gồm sinh hoạt)",
+  "deadline": "2027-01-15",
+  "dtext": "Mở 1/12/2026; kết quả 1/4/2027",
+  "intake": "8/2027",
+  "cond": "KTH phải là nguyện vọng 1 trên universityadmissions.se. Năm 2026: 65 trên 718 người được đề cử (9%).",
+  "note": "",
+  "english": {
+   "o": 6.5,
+   "b": 5.5,
+   "moi": false,
+   "opt": false,
+   "text": "English 6: 6.5 tổng, không kỹ năng nào dưới 5.5"
+  },
+  "cost": {
+   "note": "Miễn học phí; tự lo mức chứng minh SEK 10,656/tháng",
+   "range": [
+    11000,
+    11700
+   ]
+  },
+  "match": "tb",
+  "ver": "xm",
+  "src": "https://www.kth.se/en/2.985/nanotechnology/2.25746/kth-scholarship-1.72827",
+  "docs": {
+   "keys": [
+    "form",
+    "fee",
+    "cv",
+    "motivation",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {
+    "fee": "Phí universityadmissions.se SEK 900"
+   }
+  },
+  "events": [
+   {
+    "date": "2026-12-01",
+    "label": "Mở nộp",
+    "kind": "open"
+   },
+   {
+    "date": "2027-01-15",
+    "label": "Hạn nộp",
+    "kind": "close"
+   },
+   {
+    "date": "2027-04-01",
+    "label": "Kết quả",
+    "kind": "result"
+   }
+  ],
+  "docsText": "Phí universityadmissions.se SEK 900, không hoàn lại; hồ sơ phải đầy đủ mới được xét học bổng.",
+  "fee": {
+   "amt": 900,
+   "cur": "SEK",
+   "group": "uhr",
+   "note": "Một lần cho cả đợt universityadmissions.se"
+  },
+  "comp": {
+   "rate": 0.09,
+   "text": "2026: 65 trên 718 người được đề cử"
+  }
+ },
+ {
+  "id": "lund",
+  "name": "Lund University – Global Scholarship",
+  "country": "Thụy Điển",
+  "region": "chau-au",
+  "type": "Học bổng trường",
+  "level": "Thạc sĩ",
+  "fund": "hocphi",
+  "spring": "thu",
+  "amount": "Miễn một phần hoặc toàn bộ học phí (Lund không công bố mức cố định)",
+  "deadline": "2027-01-15",
+  "dtext": "Nộp hồ sơ trường đến 15/1; cổng học bổng mở đầu tháng 2 (đợt 2026 đóng 16/2)",
+  "intake": "8/2027",
+  "cond": "Lund phải là nguyện vọng 1; xét theo thành tích, không xét hoàn cảnh. Thư động lực 600 từ gần như quyết định kết quả.",
+  "note": "",
+  "english": {
+   "o": 6.5,
+   "b": 5.5,
+   "moi": false,
+   "opt": false,
+   "text": "English 6: 6.5 tổng, không kỹ năng nào dưới 5.5"
+  },
+  "cost": {
+   "note": "Nếu miễn toàn bộ học phí; tự lo mức chứng minh SEK 10,656/tháng",
+   "range": [
+    11000,
+    11700
+   ]
+  },
+  "match": "tb",
+  "ver": "th",
+  "src": "https://scholarwing.com/?p=5003",
+  "docs": {
+   "keys": [
+    "form",
+    "fee",
+    "cv",
+    "motivation",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {
+    "fee": "Phí universityadmissions.se SEK 900",
+    "motivation": "Thư động lực 600 từ cho học bổng"
+   }
+  },
+  "events": [
+   {
+    "date": "2027-01-15",
+    "label": "Hạn hồ sơ trường",
+    "kind": "close"
+   }
+  ],
+  "fee": {
+   "amt": 900,
+   "cur": "SEK",
+   "group": "uhr",
+   "note": "Một lần cho cả đợt universityadmissions.se"
+  }
+ },
+ {
+  "id": "uppsala",
+  "name": "Uppsala University – Global Scholarship (IPK)",
+  "country": "Thụy Điển",
+  "region": "chau-au",
+  "type": "Học bổng trường",
+  "level": "Thạc sĩ",
+  "fund": "hocphi",
+  "spring": "thu",
+  "amount": "Miễn toàn bộ học phí (SEK 49,500–90,000/học kỳ)",
+  "deadline": "",
+  "dtext": "Dự kiến giữa tháng 1 – đầu tháng 2/2027 (đợt 2026: 16/1 – 2/2)",
+  "intake": "8/2027",
+  "cond": "Uppsala phải là nguyện vọng 1. Nguồn tổng hợp ước khoảng 2% thành công.",
+  "note": "",
+  "english": {
+   "o": 6.5,
+   "b": 5.5,
+   "moi": false,
+   "opt": false,
+   "text": "English 6: 6.5 tổng, không kỹ năng nào dưới 5.5"
+  },
+  "cost": {
+   "note": "Miễn học phí; tự lo mức chứng minh SEK 10,656/tháng",
+   "range": [
+    11000,
+    11700
+   ]
+  },
+  "match": "tb",
+  "ver": "th",
+  "src": "https://scholarwing.com/?p=4947",
+  "docs": {
+   "keys": [
+    "form",
+    "fee",
+    "cv",
+    "motivation",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {
+    "fee": "Phí universityadmissions.se SEK 900"
+   }
+  },
+  "events": [
+   {
+    "date": "2027-01-15",
+    "label": "Hạn hồ sơ trường",
+    "kind": "close",
+    "est": true
+   }
+  ],
+  "fee": {
+   "amt": 900,
+   "cur": "SEK",
+   "group": "uhr",
+   "note": "Một lần cho cả đợt universityadmissions.se"
+  },
+  "comp": {
+   "rate": 0.02,
+   "text": "Nguồn tổng hợp ước khoảng 2% thành công"
+  }
+ },
+ {
+  "id": "seuni",
+  "name": "Chalmers, Linköping, Stockholm – học bổng học phí",
+  "country": "Thụy Điển",
+  "region": "chau-au",
+  "type": "Học bổng trường",
+  "level": "Thạc sĩ",
+  "fund": "hocphi",
+  "spring": "thu",
+  "amount": "Miễn một phần hoặc toàn bộ học phí; chưa xác minh",
+  "deadline": "",
+  "dtext": "Nộp hồ sơ trường đến khoảng 15/1 qua universityadmissions.se; học bổng theo lịch từng trường",
+  "intake": "8/2027",
+  "cond": "Thường đòi trường đó là nguyện vọng 1, như Lund và Uppsala.",
+  "note": "",
+  "english": {
+   "o": 6.5,
+   "b": 5.5,
+   "moi": false,
+   "opt": false,
+   "text": "English 6: 6.5 tổng, không kỹ năng nào dưới 5.5"
+  },
+  "cost": {
+   "note": "Nếu miễn toàn bộ học phí; tự lo mức chứng minh SEK 10,656/tháng",
+   "range": [
+    11000,
+    11700
+   ]
+  },
+  "match": "tb",
+  "ver": "dk",
+  "src": "https://universityadmissions.se/en/entry-requirements/english-language-requirements/",
+  "docs": {
+   "keys": [
+    "form",
+    "fee",
+    "cv",
+    "motivation",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {
+    "fee": "Phí universityadmissions.se SEK 900"
+   }
+  },
+  "events": [
+   {
+    "date": "2027-01-15",
+    "label": "Hạn hồ sơ trường",
+    "kind": "close",
+    "est": true
+   }
+  ],
+  "fee": {
+   "amt": 900,
+   "cur": "SEK",
+   "group": "uhr",
+   "note": "Một lần cho cả đợt universityadmissions.se"
+  }
+ },
+ {
+  "id": "dtu",
+  "name": "DTU và các trường Đan Mạch – học bổng Chính phủ Đan Mạch",
+  "country": "Đan Mạch",
+  "region": "chau-au",
+  "type": "Học bổng chính phủ",
+  "level": "Thạc sĩ",
+  "fund": "hocphi",
+  "spring": "thu",
+  "amount": "Miễn học phí, có nơi kèm sinh hoạt; chưa xác minh",
+  "deadline": "",
+  "dtext": "Chưa xác minh",
+  "intake": "9/2027",
+  "cond": "Aarhus xét tự động (hạn 15/1/2027; khối Tự nhiên và Kỹ thuật chỉ được miễn học phí).",
+  "note": "",
+  "english": {
+   "o": 6.5,
+   "b": 6.0,
+   "moi": false,
+   "opt": false,
+   "text": "DTU: IELTS 6.5, mỗi kỹ năng ≥ 6.0; không nhận One Skill Retake"
+  },
+  "cost": {
+   "note": "Chỉ miễn học phí; sinh hoạt ở Đan Mạch (ước tính)",
+   "range": [
+    12000,
+    14000
+   ]
+  },
+  "match": "tb",
+  "ver": "dk",
+  "src": "https://dtu.dk/en/english/education/graduate/admission-and-deadlines/application_procedure/apply/language-test-requirements",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "lor1",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": []
+ },
+ {
+  "id": "aalto",
+  "name": "Aalto University – học bổng học phí (và Finland Scholarship)",
+  "country": "Phần Lan",
+  "region": "chau-au",
+  "type": "Học bổng trường",
+  "level": "Thạc sĩ",
+  "fund": "hocphi",
+  "spring": "thu",
+  "amount": "Miễn 50% hoặc 100% học phí; người có Finland Scholarship nhận thêm €5,000 trợ cấp chuyển đến (nguồn tổng hợp)",
+  "deadline": "",
+  "dtext": "Nộp cùng hồ sơ thạc sĩ, thường tháng 12 – đầu tháng 1 cho kỳ thu",
+  "intake": "8/2027",
+  "cond": "Không cần đơn riêng; chọn mục học bổng trong hồ sơ. Người xếp hạng cao nhận suất lớn hơn; năm hai cần khoảng 55 tín chỉ để giữ.",
+  "note": "",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Chưa kiểm tra"
+  },
+  "cost": {
+   "note": "Suất 100%: tự lo mức chứng minh €9,600; suất 50%: cộng nửa học phí",
+   "range": [
+    9600,
+    18600
+   ]
+  },
+  "match": "tb",
+  "ver": "th",
+  "src": "https://www.tutopiya.com/study-abroad/scholarships/aalto-university-scholarships/",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": []
+ },
+ {
+  "id": "finland",
+  "name": "Đại học Helsinki – học bổng học phí",
+  "country": "Phần Lan",
+  "region": "chau-au",
+  "type": "Học bổng trường",
+  "level": "Thạc sĩ",
+  "fund": "hocphi",
+  "spring": "thu",
+  "amount": "Miễn 50% hoặc 100% học phí (13,000–18,000 €/năm), phần lớn là 50%",
+  "deadline": "",
+  "dtext": "Đợt 2027 chưa công bố",
+  "intake": "8/2027",
+  "cond": "Nộp chung đơn với hồ sơ thạc sĩ.",
+  "note": "",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Chưa kiểm tra"
+  },
+  "cost": {
+   "note": "Suất 100%: tự lo mức chứng minh €9,600; suất 50%: cộng nửa học phí",
+   "range": [
+    9600,
+    18600
+   ]
+  },
+  "match": "tb",
+  "ver": "xm",
+  "src": "https://www.helsinki.fi/scholarships",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": []
+ },
+ {
+  "id": "france",
+  "name": "Pháp – đại học công lập",
+  "country": "Pháp",
+  "region": "chau-au",
+  "type": "Học phí thấp hoặc miễn",
+  "level": "Thạc sĩ",
+  "fund": "mien",
+  "spring": "thu",
+  "amount": "€3,950/năm cho thạc sĩ với người ngoài EU (2026–27), so với €255",
+  "deadline": "",
+  "dtext": "Theo từng trường",
+  "intake": "9/2027",
+  "cond": "Trường được miễn giảm cho tối đa 30% sinh viên nước ngoài năm 2026–27 và 25% năm 2027–28.",
+  "note": "",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Thường B2; tuỳ chương trình"
+  },
+  "cost": {
+   "note": "Học phí €3,950 + mức chứng minh €615/tháng",
+   "range": [
+    11330,
+    11330
+   ]
+  },
+  "match": "tb",
+  "ver": "xm",
+  "src": "https://www.service-public.gouv.fr/particuliers/actualites/A18927",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {
+    "form": "Hồ sơ Études en France"
+   }
+  },
+  "events": []
+ },
+ {
+  "id": "iceland",
+  "name": "Iceland – đại học công lập",
+  "country": "Iceland",
+  "region": "chau-au",
+  "type": "Học phí thấp hoặc miễn",
+  "level": "Thạc sĩ",
+  "fund": "mien",
+  "spring": "thu",
+  "amount": "Không thu học phí; phí đăng ký khoảng €600–800/năm",
+  "deadline": "",
+  "dtext": "Theo từng trường",
+  "intake": "8/2027",
+  "cond": "Kiểm tra chương trình thạc sĩ dạy bằng tiếng Anh.",
+  "note": "",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Chưa kiểm tra"
+  },
+  "cost": {
+   "note": "Không học phí nhưng sinh hoạt đắt (ước tính)",
+   "range": [
+    15000,
+    20000
+   ]
+  },
+  "match": "thap",
+  "ver": "xm",
+  "src": "https://education.ec.europa.eu/fr/study-in-europe/country-profiles/iceland",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": []
+ },
+ {
+  "id": "sh",
+  "name": "Stipendium Hungaricum",
+  "country": "Hungary",
+  "region": "chau-au",
+  "type": "Học bổng chính phủ",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "Miễn học phí + trợ cấp tháng (thấp) + hỗ trợ nhà ở + bảo hiểm",
+  "deadline": "",
+  "dtext": "Đợt trước: 15/1/2026; đợt 2027 dự kiến giữa tháng 1",
+  "intake": "9/2027",
+  "cond": "Phải được Bộ GD&ĐT đề cử (hạn đề cử cuối tháng 2). Chọn tối đa 2 chương trình. Thi tuyển giữa tháng 3 – cuối tháng 5.",
+  "note": "",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Theo trường"
+  },
+  "cost": {
+   "note": "Miễn học phí; trợ cấp tháng thấp (ước tính)",
+   "range": [
+    3000,
+    6000
+   ]
+  },
+  "match": "tb",
+  "ver": "xm",
+  "src": "https://stipendiumhungaricum.hu/apply/",
+  "docs": {
+   "keys": [
+    "nomination",
+    "form",
+    "motivation",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "health",
+    "submit"
+   ],
+   "labels": {
+    "nomination": "Bộ GD&ĐT đề cử"
+   }
+  },
+  "events": []
+ },
+ {
+  "id": "turkiye",
+  "name": "Türkiye Burslari",
+  "country": "Thổ Nhĩ Kỳ",
+  "region": "chau-au",
+  "type": "Học bổng chính phủ",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "Học phí, sinh hoạt phí tháng, chỗ ở, bảo hiểm, một vé máy bay, khóa tiếng Thổ",
+  "deadline": "",
+  "dtext": "Lịch 2027 chưa công bố; thường mở đầu năm",
+  "intake": "9/2027",
+  "cond": "Có chương trình dạy bằng tiếng Anh, nhưng phải học khóa tiếng Thổ.",
+  "note": "",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Theo trường"
+  },
+  "cost": {
+   "note": "Toàn phần",
+   "range": [
+    0,
+    1000
+   ]
+  },
+  "match": "tb",
+  "ver": "xm",
+  "src": "https://www.turkiyeburslari.gov.tr/",
+  "docs": {
+   "keys": [
+    "form",
+    "motivation",
+    "lor1",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "health",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": []
+ },
+ {
+  "id": "naist",
+  "name": "NAIST – thạc sĩ Khoa học thông tin (nhập học 4/2027 hoặc 10/2027)",
+  "country": "Nhật Bản",
+  "region": "chau-a",
+  "type": "Học phí thấp hoặc miễn",
+  "level": "Thạc sĩ nghiên cứu",
+  "fund": "mien",
+  "spring": "ca",
+  "amount": "Học phí ¥535,800/năm; phí nhập học ¥282,000; phí thi ¥30,000 (mức tạm tính 2027)",
+  "deadline": "2027-02-10",
+  "dtext": "Kỳ thi tháng 2: nộp 8–10/2/2027, phỏng vấn 10/3, kết quả 15/3, làm thủ tục nhập học cuối tháng 3",
+  "intake": "4/2027 hoặc 10/2027",
+  "cond": "Phỏng vấn trực tuyến 20 phút bằng tiếng Anh hoặc tiếng Nhật: hỏi miệng toán (đại số, giải tích) và về đề cương nghiên cứu. Thạc sĩ ở Nhật học theo phòng thí nghiệm, rất hợp hướng nghiên cứu.",
+  "note": "Người không mang quốc tịch Nhật phải làm thủ tục sơ bộ trước kỳ nộp ít nhất 2 tháng, tức khoảng đầu tháng 12/2026.",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": false,
+   "opt": true,
+   "text": "Điểm tiếng Anh không bắt buộc (không nộp thì phần này tính 0 điểm)"
+  },
+  "cost": {
+   "note": "Năm đầu khoảng ¥1.9 triệu: phí thi, nhập học, học phí ≈ ¥848k + sinh hoạt (ước tính)",
+   "range": [
+    10500,
+    12000
+   ]
+  },
+  "match": "cao",
+  "ver": "xm",
+  "src": "https://www.naist.jp/en/international_students/prospective_students/admission_information/file/2027_Master's_course.pdf",
+  "docs": {
+   "keys": [
+    "prelim",
+    "form",
+    "fee",
+    "proposal",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "test",
+    "submit"
+   ],
+   "labels": {
+    "prelim": "Thủ tục sơ bộ cho người nước ngoài",
+    "fee": "Phí thi ¥30,000",
+    "proposal": "Đề cương nghiên cứu 2 trang A4",
+    "test": "Phỏng vấn trực tuyến 20 phút (có hỏi toán)",
+    "ielts": "Điểm tiếng Anh (không bắt buộc)"
+   }
+  },
+  "events": [
+   {
+    "date": "2026-12-08",
+    "label": "Hạn thủ tục sơ bộ (ước tính, trước kỳ nộp ≥ 2 tháng)",
+    "kind": "other",
+    "est": true
+   },
+   {
+    "date": "2027-02-08",
+    "label": "Mở nộp",
+    "kind": "open"
+   },
+   {
+    "date": "2027-02-10",
+    "label": "Hạn nộp",
+    "kind": "close"
+   },
+   {
+    "date": "2027-03-10",
+    "label": "Phỏng vấn trực tuyến",
+    "kind": "interview"
+   },
+   {
+    "date": "2027-03-15",
+    "label": "Kết quả",
+    "kind": "result"
+   }
+  ],
+  "docsText": "Đề cương nghiên cứu đúng 2 trang A4 (có mẫu của NAIST) về quá trình học và hướng muốn theo; bảng điểm. Điểm tiếng Anh (TOEIC, TOEFL, Duolingo, IELTS) nộp được đến 5/3/2027. Thư chấp nhận tạm của giáo sư chỉ bắt buộc với người đang đi làm; mỗi lần chỉ xin một giáo sư.",
+  "fee": {
+   "amt": 30000,
+   "cur": "JPY",
+   "note": "Phí thi"
+  }
+ },
+ {
+  "id": "aizu",
+  "name": "Đại học Aizu – thạc sĩ Khoa học máy tính và kỹ thuật",
+  "country": "Nhật Bản",
+  "region": "chau-a",
+  "type": "Học phí thấp hoặc miễn",
+  "level": "Thạc sĩ nghiên cứu",
+  "fund": "mien",
+  "spring": "thu",
+  "amount": "Học phí ¥520,800/năm; phí nhập học ¥282,000; phí nộp ¥30,000 (mức 2026)",
+  "deadline": "2027-04-16",
+  "dtext": "Kỳ 10/2027: nộp 2–16/4/2027; kỳ 4/2027 đã đóng 18/9/2026",
+  "intake": "10/2027",
+  "cond": "Phải được giáo sư đồng ý nhận trước khi nộp (mẫu Request for Research Advisor Acceptance). Xét hồ sơ; người ở ngoài Nhật thường không thi vấn đáp, nhưng giáo sư có thể phỏng vấn trực tuyến.",
+  "note": "",
+  "english": {
+   "o": 3.5,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Tối thiểu IELTS 3.5 hoặc TOEIC 500"
+  },
+  "cost": {
+   "note": "Học phí ¥520,800 + phí nhập học ¥282,000 + sinh hoạt (ước tính)",
+   "range": [
+    9000,
+    11000
+   ]
+  },
+  "match": "cao",
+  "ver": "xm",
+  "src": "https://u-aizu.ac.jp/files/admissions/2027_m_out_e.pdf",
+  "docs": {
+   "keys": [
+    "advisor",
+    "form",
+    "fee",
+    "proposal",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {
+    "advisor": "Mẫu Request for Research Advisor Acceptance",
+    "fee": "Phí nộp ¥30,000"
+   }
+  },
+  "events": [
+   {
+    "date": "2027-04-02",
+    "label": "Mở nộp kỳ 10/2027",
+    "kind": "open"
+   },
+   {
+    "date": "2027-04-16",
+    "label": "Hạn nộp kỳ 10/2027",
+    "kind": "close"
+   }
+  ],
+  "fee": {
+   "amt": 30000,
+   "cur": "JPY",
+   "note": "Mỗi kỳ thi"
+  }
+ },
+ {
+  "id": "jaist",
+  "name": "JAIST – thạc sĩ (Foreign Student Fellowship)",
+  "country": "Nhật Bản",
+  "region": "chau-a",
+  "type": "Học bổng trường",
+  "level": "Thạc sĩ nghiên cứu",
+  "fund": "toan",
+  "spring": "ca",
+  "amount": "Theo nguồn tổng hợp: ¥80,000–100,000/tháng cho thạc sĩ + phòng ở miễn phí; miễn học phí là chương trình riêng, không bảo đảm",
+  "deadline": "",
+  "dtext": "Nhập học tháng 4 và 10; theo nguồn tổng hợp, hạn kỳ 4/2027 thường cuối thu – đầu đông 2026 (chưa xác minh ngày)",
+  "intake": "4/2027 hoặc 10/2027",
+  "cond": "Cần kế hoạch nghiên cứu khớp với một giáo sư; giáo sư đề cử. Thường không cộng được với MEXT.",
+  "note": "",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "TOEFL/IELTS theo mức thường dùng, chưa rõ ngưỡng"
+  },
+  "cost": {
+   "note": "¥80,000–100,000/tháng + phòng miễn phí; học phí có thể được miễn",
+   "range": [
+    1000,
+    5000
+   ]
+  },
+  "match": "tb",
+  "ver": "th",
+  "src": "https://www.gyanmirai.com/study-in-japan/scholarships/jaist-foreign-student-fellowship",
+  "docs": {
+   "keys": [
+    "advisor",
+    "form",
+    "proposal",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": []
+ },
+ {
+  "id": "unist",
+  "name": "UNIST – thạc sĩ Trí tuệ nhân tạo, Khoa học máy tính",
+  "country": "Hàn Quốc",
+  "region": "chau-a",
+  "type": "Học bổng trường",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "Học bổng chính phủ: miễn học phí + từ KRW 800,000/tháng; học bổng UNIST: hoàn học phí + từ KRW 17.28 triệu/năm",
+  "deadline": "",
+  "dtext": "Kỳ thu 2026 nộp 6–15/4/2026; kỳ thu 2027 dự kiến tháng 4/2027",
+  "intake": "9/2027",
+  "cond": "Có phỏng vấn sau vòng hồ sơ. Không nhận TOEFL ITP, Duolingo, IELTS Indicator.",
+  "note": "",
+  "english": {
+   "o": 0.0,
+   "b": null,
+   "moi": true,
+   "opt": false,
+   "text": "Không đặt điểm tối thiểu; được miễn nếu có giấy xác nhận học bằng tiếng Anh"
+  },
+  "cost": {
+   "note": "Miễn học phí + từ KRW 800,000/tháng (học bổng chính phủ)",
+   "range": [
+    500,
+    2000
+   ]
+  },
+  "match": "cao",
+  "ver": "xm",
+  "src": "https://admg-intl.unist.ac.kr/wp-content/uploads/2014/12/Guidelines-for-2026-Fall-UNIST-Graduate-Admissions-2.pdf",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "moi",
+    "passport",
+    "test",
+    "submit"
+   ],
+   "labels": {
+    "test": "Phỏng vấn"
+   }
+  },
+  "events": []
+ },
+ {
+  "id": "postech",
+  "name": "POSTECH – POSCO Global Scholarship",
+  "country": "Hàn Quốc",
+  "region": "chau-a",
+  "type": "Học bổng trường",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "Học phí + trợ cấp tháng (theo quốc tịch, xét sau khi trúng tuyển); hoặc trợ lý nghiên cứu, giảng dạy",
+  "deadline": "",
+  "dtext": "Theo lịch 2026 trong tài liệu của viện GIFT: vòng 1 nộp 24/2 – 3/4 (kỳ thu), vòng 2 nộp 6/7 – 11/9 (kỳ xuân)",
+  "intake": "9/2027",
+  "cond": "Lịch của từng khoa có thể khác; kiểm tra khoa Khoa học máy tính.",
+  "note": "",
+  "english": {
+   "o": 6.0,
+   "b": null,
+   "moi": true,
+   "opt": false,
+   "text": "IELTS 6.0 hoặc giấy xác nhận học bằng tiếng Anh"
+  },
+  "cost": {
+   "note": "Học phí + trợ cấp tháng theo quốc tịch",
+   "range": [
+    0,
+    3000
+   ]
+  },
+  "match": "cao",
+  "ver": "th",
+  "src": "https://adm-g.postech.ac.kr/ENG/wp-content/uploads/2026/02/20260223182144_DLTCseh3qD.pdf",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "moi",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": []
+ },
+ {
+  "id": "gks",
+  "name": "Global Korea Scholarship (GKS)",
+  "country": "Hàn Quốc",
+  "region": "chau-a",
+  "type": "Học bổng chính phủ",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "Học phí + sinh hoạt phí + vé khứ hồi; thường kèm một năm tiếng Hàn",
+  "deadline": "",
+  "dtext": "Lịch 2027 chưa công bố; thường tháng 2–3",
+  "intake": "9/2027",
+  "cond": "",
+  "note": "Trang GKS chặn truy cập tự động.",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Không bắt buộc tiếng Hàn khi nộp; tuỳ trường"
+  },
+  "cost": {
+   "note": "Toàn phần",
+   "range": [
+    0,
+    0
+   ]
+  },
+  "match": "tb",
+  "ver": "dk",
+  "src": "https://www.studyinkorea.go.kr/en/sub/gks/allnew_invite.do",
+  "docs": {
+   "keys": [
+    "form",
+    "motivation",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "health",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": []
+ },
+ {
+  "id": "krinst",
+  "name": "DGIST và các viện khoa học khác – học bổng trường",
+  "country": "Hàn Quốc",
+  "region": "chau-a",
+  "type": "Học bổng trường",
+  "level": "Thạc sĩ",
+  "fund": "mot",
+  "spring": "thu",
+  "amount": "Thường miễn học phí, kèm lương trợ lý nghiên cứu; chưa xác minh",
+  "deadline": "",
+  "dtext": "Theo đợt xuân và thu; chưa xác minh",
+  "intake": "9/2027",
+  "cond": "",
+  "note": "",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Chưa kiểm tra"
+  },
+  "cost": {
+   "note": "Miễn học phí; lương trợ lý nghiên cứu (ước tính)",
+   "range": [
+    2000,
+    6000
+   ]
+  },
+  "match": "tb",
+  "ver": "dk",
+  "src": "https://admission.kaist.ac.kr/intl-graduate/",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": []
+ },
+ {
+  "id": "twmoe",
+  "name": "Taiwan Scholarship (Bộ Giáo dục Đài Loan)",
+  "country": "Đài Loan",
+  "region": "chau-a",
+  "type": "Học bổng chính phủ",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "NT$15,000–20,000/tháng tuỳ bậc + học phí tới NT$40,000/học kỳ",
+  "deadline": "",
+  "dtext": "Đợt 2026 nhận đến hết tháng 3; đợt 2027 dự kiến tương tự",
+  "intake": "9/2027",
+  "cond": "Năm 2026 Việt Nam có 76 suất, trong đó 41 suất cho người từ Đà Nẵng trở vào.",
+  "note": "",
+  "english": {
+   "o": 6.0,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Theo trường Đài Loan (thường TOEFL iBT 79 hoặc IELTS 6.0)"
+  },
+  "cost": {
+   "note": "NT$15,000–20,000/tháng + học phí tới NT$40,000/học kỳ",
+   "range": [
+    0,
+    2000
+   ]
+  },
+  "match": "cao",
+  "ver": "th",
+  "src": "https://news.tuoitre.vn/vietnam-leads-in-taiwan-scholarship-recipients-in-2026-103260303180006137.htm",
+  "docs": {
+   "keys": [
+    "form",
+    "motivation",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {
+    "motivation": "Kế hoạch học tập"
+   }
+  },
+  "events": [],
+  "comp": {
+   "awards": 76,
+   "text": "Năm 2026 Việt Nam có 76 suất"
+  }
+ },
+ {
+  "id": "twuni",
+  "name": "Học bổng trường Đài Loan: NCU, NTHU, NTU, NYCU, NCKU, NTUST",
+  "country": "Đài Loan",
+  "region": "chau-a",
+  "type": "Học bổng trường",
+  "level": "Thạc sĩ",
+  "fund": "mot",
+  "spring": "thu",
+  "amount": "NCU: miễn hoặc giảm học phí và phí tín chỉ + tới NT$15,000/tháng (trung bình NT$6,000–10,000), 2 năm",
+  "deadline": "",
+  "dtext": "Kỳ xuân 2027 đã đóng; kỳ thu 2027 thường tháng 2–3; NCU xét học bổng cùng hồ sơ nhập học",
+  "intake": "9/2027",
+  "cond": "Thường chỉ được hưởng một học bổng. Hợp nếu muốn làm với GS Chia-Hui Chang (NCU).",
+  "note": "Trang học bổng NCU ghi năm 2020; kiểm tra lại với Phòng Quan hệ quốc tế NCU.",
+  "english": {
+   "o": 6.0,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Thường TOEFL iBT 79 hoặc IELTS 6.0"
+  },
+  "cost": {
+   "note": "Miễn hoặc giảm học phí + trung bình NT$6,000–10,000/tháng (ước tính)",
+   "range": [
+    3500,
+    5500
+   ]
+  },
+  "match": "cao",
+  "ver": "th",
+  "src": "https://old.studyintaiwan.org/university/scholarship/29",
+  "docs": {
+   "keys": [
+    "advisor",
+    "form",
+    "motivation",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {
+    "advisor": "Liên hệ giáo sư (ví dụ phòng lab ở NCU)",
+    "motivation": "Kế hoạch học tập"
+   }
+  },
+  "events": []
+ },
+ {
+  "id": "csc",
+  "name": "Học bổng Chính phủ Trung Quốc (CSC)",
+  "country": "Trung Quốc",
+  "region": "chau-a",
+  "type": "Học bổng chính phủ",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "Học phí, ký túc xá, trợ cấp tháng, bảo hiểm",
+  "deadline": "",
+  "dtext": "Thường tháng 1–4; chưa xác minh cho 2027",
+  "intake": "9/2027",
+  "cond": "Có chương trình dạy bằng tiếng Anh; đã có bài đăng 2027 của Đại học Công nghệ Đại Liên.",
+  "note": "",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Theo trường; chứng chỉ HSK là điểm cộng"
+  },
+  "cost": {
+   "note": "Toàn phần",
+   "range": [
+    0,
+    1000
+   ]
+  },
+  "match": "tb",
+  "ver": "th",
+  "src": "https://jobs.neu.edu.vn/posts/trung-quoc-hoc-bong-chinh-phu-toan-phan-bac-thac-si-tien-si-tai-dalian-university-of-technology-2027-202610121549",
+  "docs": {
+   "keys": [
+    "advisor",
+    "form",
+    "motivation",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "passport",
+    "health",
+    "submit"
+   ],
+   "labels": {
+    "advisor": "Thư chấp nhận của giáo sư (nếu trường yêu cầu)",
+    "motivation": "Kế hoạch học tập"
+   }
+  },
+  "events": []
+ },
+ {
+  "id": "anso",
+  "name": "CAS-ANSO Scholarship (UCAS, USTC)",
+  "country": "Trung Quốc",
+  "region": "chau-a",
+  "type": "Học bổng chương trình",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "Học phí + 3,000–7,000 NDT/tháng + chỗ ở + bảo hiểm + trợ cấp đi lại",
+  "deadline": "",
+  "dtext": "Đợt 2026 hạn 31/1/2026; đợt 2027 dự kiến cuối tháng 1",
+  "intake": "9/2027",
+  "cond": "Ứng viên thạc sĩ sinh từ 1/1/1996. Khoảng 200 suất thạc sĩ mỗi năm.",
+  "note": "",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Tiếng Anh hoặc tiếng Trung theo yêu cầu của UCAS/USTC"
+  },
+  "cost": {
+   "note": "Toàn phần",
+   "range": [
+    0,
+    1000
+   ]
+  },
+  "match": "tb",
+  "ver": "th",
+  "src": "https://al-fanarmedia.org/2025/12/fully-funded-cas-anso-scholarships-open-for-masters-and-ph-d-study-in-china/",
+  "docs": {
+   "keys": [
+    "advisor",
+    "form",
+    "motivation",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "passport",
+    "health",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": [],
+  "comp": {
+   "awards": 200,
+   "text": "Khoảng 200 suất thạc sĩ mỗi năm"
+  }
+ },
+ {
+  "id": "keio",
+  "name": "Keio University – Design the Future",
+  "country": "Nhật Bản",
+  "region": "chau-a",
+  "type": "Học bổng trường",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "Toàn phần theo bài đăng; chưa đọc chi tiết",
+  "deadline": "",
+  "dtext": "Chưa xác minh",
+  "intake": "2027",
+  "cond": "Kiểm tra ngành và điều kiện.",
+  "note": "",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Chưa kiểm tra"
+  },
+  "cost": {
+   "note": "Toàn phần theo bài đăng",
+   "range": [
+    0,
+    1000
+   ]
+  },
+  "match": "tb",
+  "ver": "th",
+  "src": "https://jobs.neu.edu.vn/posts/nhat-ban-hoc-bong-toan-phan-bac-thac-si-va-tien-si-design-the-future-tai-keio-university-2027-202609031457",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": []
+ },
+ {
+  "id": "mextemb",
+  "name": "MEXT – qua Đại sứ quán Nhật Bản",
+  "country": "Nhật Bản",
+  "region": "chau-a",
+  "type": "Học bổng chính phủ",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "sau",
+  "amount": "Học phí + sinh hoạt phí + vé máy bay",
+  "deadline": "",
+  "dtext": "Thường nộp khoảng tháng 4–5 cho kỳ năm sau; chưa xác minh",
+  "intake": "4/2028 hoặc 10/2028",
+  "cond": "Thường bắt đầu bằng diện nghiên cứu sinh dự bị.",
+  "note": "Bắt đầu từ 2028.",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Theo trường"
+  },
+  "cost": {
+   "note": "Toàn phần",
+   "range": [
+    0,
+    0
+   ]
+  },
+  "match": "tb",
+  "ver": "dk",
+  "src": "https://ge.iitm.ac.in/programs/student-outbound/other-opportunities/opportunities/mext-scholarship-2027-embassy-recommendation-kyoto-university-admissions",
+  "docs": {
+   "keys": [
+    "form",
+    "motivation",
+    "lor1",
+    "transcript",
+    "degree",
+    "passport",
+    "health",
+    "submit"
+   ],
+   "labels": {
+    "motivation": "Kế hoạch nghiên cứu"
+   }
+  },
+  "events": []
+ },
+ {
+  "id": "ntu",
+  "name": "NTU Singapore – MEng (Research) ở CCDS + NTU Research Scholarship",
+  "country": "Singapore",
+  "region": "chau-a",
+  "type": "Thạc sĩ nghiên cứu có tài trợ",
+  "level": "Thạc sĩ nghiên cứu",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "S$2,900/tháng + học phí, tối đa 2 năm",
+  "deadline": "",
+  "dtext": "Xem hướng dẫn tuyển sinh nghiên cứu của NTU",
+  "intake": "8/2027",
+  "cond": "Đòi Honours (Distinction) hoặc tương đương. Không đòi GRE. Sinh viên quốc tế phải làm trợ giảng hoặc trợ lý phòng thí nghiệm.",
+  "note": "",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": true,
+   "opt": false,
+   "text": "Chỉ cần IELTS nếu cử nhân không học bằng tiếng Anh"
+  },
+  "cost": {
+   "note": "S$2,900/tháng + học phí",
+   "range": [
+    0,
+    0
+   ]
+  },
+  "match": "cao",
+  "ver": "xm",
+  "src": "https://www.ntu.edu.sg/computing/admissions/graduate-programmes/detail/ccds-master-of-engineering",
+  "docs": {
+   "keys": [
+    "form",
+    "proposal",
+    "cv",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "moi",
+    "pubs",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": []
+ },
+ {
+  "id": "cuhk",
+  "name": "CUHK – MPhil Computer Science and Engineering",
+  "country": "Hồng Kông",
+  "region": "chau-a",
+  "type": "Thạc sĩ nghiên cứu có tài trợ",
+  "level": "Thạc sĩ nghiên cứu",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "Học bổng nghiên cứu khoảng HK$18,725/tháng",
+  "deadline": "",
+  "dtext": "Trang còn ghi lịch cũ: vòng 1 1/9 – 9/10, vòng 2 10/10 – 24/1, vòng 3 25/1 – 31/3; đợt 2027–28 dự kiến tương tự",
+  "intake": "9/2027",
+  "cond": "Người qua phỏng vấn được gửi hồ sơ cho các giáo sư; phải chủ động trao đổi với một giáo sư CSE mới có thư mời.",
+  "note": "",
+  "english": {
+   "o": 6.5,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "IELTS ≥ 6.5 (không nêu điểm từng kỹ năng)"
+  },
+  "cost": {
+   "note": "Học bổng nghiên cứu khoảng HK$18,725/tháng",
+   "range": [
+    0,
+    0
+   ]
+  },
+  "match": "cao",
+  "ver": "dk",
+  "src": "https://www.cse.cuhk.edu.hk/admission/mphil-phd/regular-admission/",
+  "docs": {
+   "keys": [
+    "advisor",
+    "form",
+    "cv",
+    "proposal",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "ielts",
+    "pubs",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": []
+ },
+ {
+  "id": "hkust",
+  "name": "HKUST – MPhil Computer Science and Engineering",
+  "country": "Hồng Kông",
+  "region": "chau-a",
+  "type": "Thạc sĩ nghiên cứu có tài trợ",
+  "level": "Thạc sĩ nghiên cứu",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "Học bổng khoảng HKD 229,620/năm; học phí HKD 47,000/năm (2026/27)",
+  "deadline": "",
+  "dtext": "Đợt sớm đã đóng 15/8/2026; nộp đợt thường qua trang tuyển sinh sau đại học",
+  "intake": "9/2027",
+  "cond": "Có thể nộp trước khi có điểm tiếng Anh, nhưng phải đạt trước khi nhập học.",
+  "note": "",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Theo yêu cầu chung của HKUST; chưa xem ngưỡng"
+  },
+  "cost": {
+   "note": "Học bổng khoảng HKD 229,620/năm, tự đóng học phí HKD 47,000 từ đó",
+   "range": [
+    0,
+    0
+   ]
+  },
+  "match": "tb",
+  "ver": "xm",
+  "src": "https://cse.hkust.edu.hk/pg/admissions/recruiting/",
+  "docs": {
+   "keys": [
+    "advisor",
+    "form",
+    "cv",
+    "proposal",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "ielts",
+    "pubs",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": []
+ },
+ {
+  "id": "siit",
+  "name": "SIIT, ĐH Thammasat (Thái Lan) – học bổng EFS",
+  "country": "Thái Lan",
+  "region": "chau-a",
+  "type": "Học bổng trường",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "Toàn bộ học phí + 10,000 baht/tháng + vé khứ hồi (tới 20,000 baht) + bảo hiểm",
+  "deadline": "",
+  "dtext": "Theo đợt 2023: nộp 6/2 – 15/3 cho kỳ tháng 8; đợt 2027 dự kiến tương tự",
+  "intake": "8/2027",
+  "cond": "Nên thuộc top 20% khóa; 2 thư giới thiệu; không giữ học bổng khác; ở ký túc SIIT ít nhất 12 tháng; 30 giờ hỗ trợ mỗi học kỳ; giữ GPA từ 3.25. Có ngành Computer Engineering/Science, AI & IoT. Đợt 2023 có 40 suất.",
+  "note": "",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Theo yêu cầu tuyển sinh của SIIT"
+  },
+  "cost": {
+   "note": "Học phí + 10,000 baht/tháng; ở ký túc (ước tính)",
+   "range": [
+    1500,
+    3000
+   ]
+  },
+  "match": "tb",
+  "ver": "dk",
+  "src": "https://image.mfa.go.th/mfa/0/pLBnfMEJPm/siit.pdf",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "lor1",
+    "lor2",
+    "rank",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {
+    "rank": "Xác nhận top 20% khóa"
+   }
+  },
+  "events": [],
+  "comp": {
+   "awards": 40,
+   "text": "Đợt 2023: 40 suất"
+  }
+ },
+ {
+  "id": "chula",
+  "name": "Chulalongkorn – ASEAN và Non-ASEAN Scholarship",
+  "country": "Thái Lan",
+  "region": "chau-a",
+  "type": "Học bổng trường",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "Học phí + 16,000 baht/tháng (gồm chỗ ở) + vé khứ hồi (tối đa 8,500 baht cho ASEAN)",
+  "deadline": "2026-10-10",
+  "dtext": "Đã qua; theo dõi đợt sau",
+  "intake": "2027",
+  "cond": "Không quá 35 tuổi. Ưu tiên giảng viên, nghiên cứu viên sẽ quay về trường cũ.",
+  "note": "",
+  "english": {
+   "o": 5.0,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "IELTS từ 5.0"
+  },
+  "cost": {
+   "note": "Học phí + 16,000 baht/tháng gồm chỗ ở",
+   "range": [
+    0,
+    1500
+   ]
+  },
+  "match": "tb",
+  "ver": "th",
+  "src": "https://jobs.neu.edu.vn/posts/thai-lan-hoc-bong-toan-phan-bac-thac-si-va-tien-si-tai-truong-dai-hoc-chulalongkorn-2027-202609071533",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": [
+   {
+    "date": "2026-10-10",
+    "label": "Hạn nộp",
+    "kind": "close"
+   }
+  ]
+ },
+ {
+  "id": "hbku",
+  "name": "HBKU – MSc Data Science and Engineering",
+  "country": "Qatar",
+  "region": "trung-dong",
+  "type": "Học bổng trường",
+  "level": "Thạc sĩ",
+  "fund": "mot",
+  "spring": "thu",
+  "amount": "Trang khoa: một số suất miễn học phí theo xét chọn; bài tổng hợp ghi học bổng toàn phần",
+  "deadline": "2027-02-01",
+  "dtext": "Hạn cho ứng viên sau đại học quốc tế; cổng mở tháng 10/2026",
+  "intake": "9/2027",
+  "cond": "Không đòi GRE. GPA tối thiểu 3.0/4.0. Khoa không có thạc sĩ CS hay AI riêng.",
+  "note": "",
+  "english": {
+   "o": 6.5,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "IELTS 6.5, không nêu điểm từng kỹ năng"
+  },
+  "cost": {
+   "note": "Nếu chỉ được miễn học phí, sinh hoạt ở Doha cao (ước tính)",
+   "range": [
+    12000,
+    18000
+   ]
+  },
+  "match": "tb",
+  "ver": "xm",
+  "src": "https://www.hbku.edu.qa/cse/admission-requirements",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": [
+   {
+    "date": "2027-02-01",
+    "label": "Hạn cho ứng viên quốc tế",
+    "kind": "close"
+   }
+  ]
+ },
+ {
+  "id": "mbzuai",
+  "name": "MBZUAI (Đại học AI Mohamed bin Zayed)",
+  "country": "UAE",
+  "region": "trung-dong",
+  "type": "Học bổng trường",
+  "level": "Thạc sĩ",
+  "fund": "mot",
+  "spring": "thu",
+  "amount": "Thạc sĩ mặc định tự túc; tài trợ qua trợ lý nghiên cứu hoặc giảng dạy, không bảo đảm",
+  "deadline": "2026-12-15",
+  "dtext": "17:00 giờ UAE; kết quả 31/3/2027",
+  "intake": "8/2027",
+  "cond": "Nhiều bài đăng vẫn ghi “toàn phần” là thông tin cũ.",
+  "note": "",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Chưa kiểm tra"
+  },
+  "cost": {
+   "note": "Thạc sĩ mặc định tự túc; tài trợ không bảo đảm (ước tính)",
+   "range": [
+    20000,
+    40000
+   ]
+  },
+  "match": "cao",
+  "ver": "xm",
+  "src": "https://mbzuai.ac.ae/admissions/graduate-masters-admissions",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": [
+   {
+    "date": "2026-12-15",
+    "label": "Hạn nộp, 17:00 giờ UAE",
+    "kind": "close"
+   },
+   {
+    "date": "2027-03-31",
+    "label": "Kết quả",
+    "kind": "result"
+   }
+  ]
+ },
+ {
+  "id": "mcgill",
+  "name": "McGill – MSc Computer Science (thesis)",
+  "country": "Canada",
+  "region": "bac-my",
+  "type": "Thạc sĩ nghiên cứu có tài trợ",
+  "level": "Thạc sĩ nghiên cứu",
+  "fund": "mot",
+  "spring": "thu",
+  "amount": "Gói tài trợ tuỳ người; đa số học viên được tài trợ",
+  "deadline": "",
+  "dtext": "Hạn sớm hơn hạn chung của McGill; xem trang hạn nộp",
+  "intake": "9/2027",
+  "cond": "GRE không bắt buộc. CGPA nên từ 3.2/4. Không bắt buộc có giáo sư nhận trước khi nộp.",
+  "note": "",
+  "english": {
+   "o": 6.5,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "IELTS 6.5 tổng, không nêu điểm từng kỹ năng"
+  },
+  "cost": {
+   "note": "Gói tài trợ tuỳ người, không bảo đảm",
+   "range": [
+    0,
+    15000
+   ]
+  },
+  "match": "tb",
+  "ver": "xm",
+  "src": "https://cs.mcgill.ca/graduate/future/mscadmission/",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "ielts",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": []
+ },
+ {
+  "id": "concordia",
+  "name": "Concordia – MSc Computer Science (thesis)",
+  "country": "Canada",
+  "region": "bac-my",
+  "type": "Thạc sĩ nghiên cứu có tài trợ",
+  "level": "Thạc sĩ nghiên cứu",
+  "fund": "mot",
+  "spring": "thu",
+  "amount": "Học phí người nước ngoài khoảng CAD 15,547/năm; có trợ lý giảng dạy, nghiên cứu (không nêu mức)",
+  "deadline": "2027-03-01",
+  "dtext": "Kỳ 9/2027: người nước ngoài nộp trước 1/3/2027 (theo Mastersportal)",
+  "intake": "9/2027",
+  "cond": "",
+  "note": "",
+  "english": {
+   "o": 6.5,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "IELTS 6.5 tổng theo Mastersportal; cần đối chiếu trang trường"
+  },
+  "cost": {
+   "note": "Học phí CAD 15,547 + mức chứng minh CAD 23,448; trợ lý không bảo đảm (ước tính)",
+   "range": [
+    15000,
+    26000
+   ]
+  },
+  "match": "tb",
+  "ver": "th",
+  "src": "https://www.mastersportal.com/studies/116830/computer-science.html",
+  "docs": {
+   "keys": [
+    "form",
+    "cv",
+    "motivation",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "ielts",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": [
+   {
+    "date": "2027-03-01",
+    "label": "Hạn cho người nước ngoài",
+    "kind": "close"
+   }
+  ]
+ },
+ {
+  "id": "aurtp",
+  "name": "Úc – học bổng nghiên cứu (UTS IRTP, ANU, UNSW, James Cook…)",
+  "country": "Úc",
+  "region": "dai-duong",
+  "type": "Thạc sĩ nghiên cứu có tài trợ",
+  "level": "Thạc sĩ nghiên cứu",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "Học phí + sinh hoạt phí; mức tuỳ trường",
+  "deadline": "",
+  "dtext": "Theo đợt của từng trường; chưa xác minh",
+  "intake": "2027",
+  "cond": "Thạc sĩ nghiên cứu (MPhil) rất cạnh tranh; cần giáo sư nhận.",
+  "note": "",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Nhiều trường đặt điểm sàn từng kỹ năng; kiểm tra"
+  },
+  "cost": {
+   "note": "Học phí + sinh hoạt phí nếu được học bổng nghiên cứu",
+   "range": [
+    0,
+    2000
+   ]
+  },
+  "match": "tb",
+  "ver": "th",
+  "src": "https://jobs.neu.edu.vn/posts/australia-hoc-bong-chinh-phu-toan-phan-bac-thac-si-va-tien-si-international-research-training-program-irtp-tai-dai-hoc-technology-sydney-2027-202609281402",
+  "docs": {
+   "keys": [
+    "advisor",
+    "form",
+    "cv",
+    "proposal",
+    "lor1",
+    "lor2",
+    "transcript",
+    "degree",
+    "ielts",
+    "pubs",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": []
+ },
+ {
+  "id": "aas",
+  "name": "Australia Awards Vietnam",
+  "country": "Úc",
+  "region": "dai-duong",
+  "type": "Học bổng chính phủ",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "sau",
+  "amount": "Toàn phần",
+  "deadline": "",
+  "dtext": "Đợt 2027 đóng 30/4/2026; đợt sau chưa công bố",
+  "intake": "2028",
+  "cond": "Xem trang điều kiện và ngành ưu tiên.",
+  "note": "Bắt đầu từ 2028.",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Chưa kiểm tra"
+  },
+  "cost": {
+   "note": "Toàn phần",
+   "range": [
+    0,
+    0
+   ]
+  },
+  "match": "thap",
+  "ver": "xm",
+  "src": "https://www.australiaawardsvietnam.org/",
+  "docs": {
+   "keys": [
+    "form",
+    "motivation",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": []
+ },
+ {
+  "id": "hiepdinh",
+  "name": "Học bổng Hiệp định (Bộ GD&ĐT)",
+  "country": "Nhiều nước (ví dụ Hungary, Nga, Trung Quốc)",
+  "region": "viet-nam",
+  "type": "Học bổng chính phủ",
+  "level": "Thạc sĩ",
+  "fund": "toan",
+  "spring": "thu",
+  "amount": "Tùy hiệp định từng nước",
+  "deadline": "",
+  "dtext": "Thông báo thường vào cuối năm",
+  "intake": "9/2027",
+  "cond": "Theo dõi website Bộ GD&ĐT.",
+  "note": "",
+  "english": {
+   "o": null,
+   "b": null,
+   "moi": false,
+   "opt": false,
+   "text": "Tuỳ nước"
+  },
+  "cost": {
+   "note": "Tuỳ hiệp định",
+   "range": [
+    0,
+    2000
+   ]
+  },
+  "match": "tb",
+  "ver": "th",
+  "src": "https://luatvietnam.vn/giao-duc/thong-bao-1935-tb-bgddt-2023-tuyen-sinh-di-hoc-tai-hung-ga-ri-dien-hiep-dinh-nam-2024-277920-d6.html",
+  "docs": {
+   "keys": [
+    "form",
+    "motivation",
+    "transcript",
+    "degree",
+    "ielts",
+    "passport",
+    "health",
+    "submit"
+   ],
+   "labels": {}
+  },
+  "events": []
+ }
+]

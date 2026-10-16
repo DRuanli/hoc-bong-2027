@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Sổ học bổng 2027</title>
+  <meta name="description" content="Theo dõi hồ sơ học bổng thạc sĩ 2027: checklist từng nơi, hạn nộp, giấy tờ dùng chung và điểm cho từng yếu tố.">
+  <meta name="theme-color" content="#23509f">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%2323509f'/%3E%3Cpath d='M7 11l9 6 9-6M7 11v11h18V11' fill='none' stroke='white' stroke-width='2.2' stroke-linejoin='round'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&family=Bricolage+Grotesque:opsz,wght@12..96,700;12..96,800&family=JetBrains+Mono:wght@500&display=swap">
+  <link rel="stylesheet" href="assets/css/app.css">
+  <script>
+    try { var t = JSON.parse(localStorage.getItem("hb27:theme")); if (t === "light" || t === "dark") document.documentElement.setAttribute("data-theme", t); } catch (e) {}
+  </script>
+</head>
+<body>
+  <a class="skip" href="#view">Bỏ qua thanh điều hướng</a>
+  <header class="app-header">
+    <div class="stripe" aria-hidden="true"></div>
+    <div class="header-inner">
+      <a class="brand" href="#/" aria-label="Sổ học bổng 2027, về Tổng quan">
+        <span class="brand-mark" aria-hidden="true"><svg viewBox="0 0 32 32"><rect x="1" y="1" width="30" height="30" rx="7"/><path d="M7 11l9 6 9-6M7 11v11h18V11"/></svg></span>
+        <span class="brand-name">Sổ học bổng <b>2027</b></span>
+      </a>
+      <nav class="nav" aria-label="Các trang">
+        <a href="#/" data-nav="">Tổng quan</a>
+        <a href="#/hoc-bong" data-nav="hoc-bong">Học bổng</a>
+        <a href="#/tien-do" data-nav="tien-do">Tiến độ</a>
+        <a href="#/lich" data-nav="lich">Lịch</a>
+        <a href="#/giay-to" data-nav="giay-to">Giấy tờ</a>
+        <a href="#/ho-so" data-nav="ho-so">Hồ sơ</a>
+        <a href="#/cai-dat" data-nav="cai-dat">Cài đặt</a>
+      </nav>
+      <button type="button" class="sync-btn" id="sync-btn" data-state="off">
+        <span class="sync-dot" aria-hidden="true"></span><span class="sync-label">Chưa đồng bộ</span>
+      </button>
+    </div>
+  </header>
+
+  <main id="view" class="view" tabindex="-1">
+    <div class="loading"><span class="spinner" aria-hidden="true"></span>Đang tải danh mục học bổng…</div>
+  </main>
+
+  <footer class="app-footer">
+    <p>Danh mục lấy từ trang chính thức của từng trường và chương trình; luôn kiểm tra lại trước khi nộp. Dữ liệu cá nhân chỉ lưu trong trình duyệt và repo riêng của bạn.</p>
+  </footer>
+
+  <div class="toasts" id="toasts" aria-live="polite"></div>
+
+  <dialog class="modal" id="dlg-import" aria-labelledby="dlg-import-title">
+    <form method="dialog">
+      <h2 id="dlg-import-title">Nhập dữ liệu</h2>
+      <p class="muted small">Chọn file hồ sơ (.json) hoặc file sao lưu từ app này.</p>
+      <div class="field"><label for="imp-file">File .json</label><input id="imp-file" name="file" type="file" accept="application/json,.json"></div>
+      <div class="field"><label for="imp-paste">Hoặc dán nội dung</label><textarea id="imp-paste" name="pasted" rows="4" placeholder='{"profile": …}'></textarea></div>
+      <fieldset class="radio-row">
+        <legend>Cách nhập</legend>
+        <label class="check-line"><input type="radio" name="mode" value="merge" checked> Gộp với dữ liệu hiện có (mục mới hơn được giữ)</label>
+        <label class="check-line"><input type="radio" name="mode" value="replace"> Thay toàn bộ dữ liệu trên máy này</label>
+      </fieldset>
+      <p class="dlg-msg tone-text-crit small" aria-live="assertive"></p>
+      <div class="btn-row"><button class="btn btn-primary" type="submit" value="ok">Nhập dữ liệu</button><button class="btn btn-ghost" type="button" data-close>Hủy</button></div>
+    </form>
+  </dialog>
+
+  <dialog class="modal modal-wide" id="dlg-custom" aria-labelledby="dlg-custom-title">
+    <form method="dialog" autocomplete="off">
+      <h2 id="dlg-custom-title">Thêm học bổng</h2>
+      <input type="hidden" name="cid">
+      <div class="form-grid">
+        <div class="field field-wide"><label for="c-sname">Tên học bổng hoặc chương trình</label><input id="c-sname" name="sname" required maxlength="160"></div>
+        <div class="field"><label for="c-country">Nước</label><input id="c-country" name="country" maxlength="60"></div>
+        <div class="field"><label for="c-region">Khu vực</label><select id="c-region" name="region"></select></div>
+        <div class="field"><label for="c-type">Loại</label><select id="c-type" name="type"><option>Học bổng trường</option><option>Học bổng chính phủ</option><option>Erasmus Mundus</option><option>Học bổng quỹ</option><option>Học bổng chương trình</option><option>Học phí thấp hoặc miễn</option><option>Thạc sĩ nghiên cứu có tài trợ</option></select></div>
+        <div class="field"><label for="c-fund">Mức tài trợ</label><select id="c-fund" name="fund"></select></div>
+        <div class="field"><label for="c-deadline">Hạn nộp</label><input id="c-deadline" name="deadline" type="date"></div>
+        <div class="field"><label for="c-intake">Nhập học</label><input id="c-intake" name="intake" placeholder="ví dụ 9/2027" maxlength="40"></div>
+        <div class="field"><label for="c-spring">Kỳ</label><select id="c-spring" name="spring"><option value="thu">Thu 2027</option><option value="ca">Kịp xuân 2027</option><option value="sau">2028 trở đi</option></select></div>
+        <div class="field"><label for="c-match">Độ phù hợp</label><select id="c-match" name="match"></select></div>
+        <div class="field field-wide"><label for="c-src">Đường dẫn nguồn</label><input id="c-src" name="src" type="url" placeholder="https://"></div>
+        <div class="field field-wide"><label for="c-amount">Học bổng gồm gì</label><input id="c-amount" name="amount" maxlength="200" placeholder="ví dụ: miễn học phí + €1,000/tháng"></div>
+        <div class="field"><label for="c-eo">IELTS tổng tối thiểu</label><input id="c-eo" name="eo" type="number" min="0" max="9" step="0.5"></div>
+        <div class="field"><label for="c-eb">Mỗi kỹ năng tối thiểu</label><input id="c-eb" name="eb" type="number" min="0" max="9" step="0.5"></div>
+        <label class="check-line"><input type="checkbox" name="emoi"> Nhận giấy xác nhận học bằng tiếng Anh</label>
+        <label class="check-line"><input type="checkbox" name="eopt"> Không đòi chứng chỉ tiếng Anh</label>
+        <div class="field field-wide"><label for="c-etext">Ghi chú tiếng Anh</label><input id="c-etext" name="etext" maxlength="160"></div>
+        <div class="field"><label for="c-cmin">Tự lo mỗi năm, thấp nhất (€)</label><input id="c-cmin" name="cmin" type="number" min="0" step="100"></div>
+        <div class="field"><label for="c-cmax">Tự lo mỗi năm, cao nhất (€)</label><input id="c-cmax" name="cmax" type="number" min="0" step="100"></div>
+        <div class="field field-wide"><label for="c-cond">Điều kiện</label><textarea id="c-cond" name="cond" rows="2" maxlength="600"></textarea></div>
+        <div class="field field-wide"><label for="c-note">Lưu ý</label><textarea id="c-note" name="note" rows="2" maxlength="600"></textarea></div>
+      </div>
+      <p class="dlg-msg tone-text-crit small" aria-live="assertive"></p>
+      <div class="btn-row"><button class="btn btn-primary" type="submit" value="ok">Lưu học bổng</button><button class="btn btn-ghost" type="button" data-close>Hủy</button></div>
+    </form>
+  </dialog>
+
+  <noscript><p class="noscript">App cần JavaScript để chạy.</p></noscript>
+  <script type="module" src="assets/js/main.js"></script>
+</body>
+</html>

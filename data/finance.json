@@ -1,0 +1,85 @@
+[
+ {
+  "country": "Áo",
+  "rule": "at",
+  "under24": 8671,
+  "from24": 15700,
+  "text": "Dưới 24 tuổi: €722.58/tháng; từ 24 tuổi: €1,308.39/tháng (2026)",
+  "extra": "Học phí người ngoài EU khoảng €1,453/năm",
+  "src": "https://oead.at/en/to-austria/entry-and-residence/residence-permit-student-no-mobility-programme",
+  "srcName": "OeAD"
+ },
+ {
+  "country": "Phần Lan",
+  "year": 9600,
+  "text": "€800/tháng = €9,600/năm",
+  "extra": "Chỉ là sinh hoạt; học phí tính riêng nếu không được miễn",
+  "src": "https://migri.fi/en/income-requirement-for-students",
+  "srcName": "Migri"
+ },
+ {
+  "country": "Ý",
+  "year": 10180,
+  "text": "€10,179.85/năm (2026/27)",
+  "extra": "Học phí đại học công thường tối đa khoảng €3,000",
+  "src": "https://ambbaku.esteri.it/wp-content/uploads/2026/06/CHECKLIST-FOR-NATIONAL-VISA-APPLICATIONS-FOR-STUDY.pdf",
+  "srcName": "Checklist Đại sứ quán Ý"
+ },
+ {
+  "country": "Đức",
+  "year": 11904,
+  "text": "€992/tháng = €11,904/năm (2026)",
+  "extra": "Trường công phần lớn không thu học phí, chỉ phí học kỳ",
+  "src": "https://assist.applyboard.com/hc/en-us/articles/32833954417933-Germany-Blocked-Account-2026-Amount-How-to-Open-One",
+  "srcName": "ApplyBoard, dẫn Auswärtiges Amt"
+ },
+ {
+  "country": "Pháp",
+  "year": 7380,
+  "plus": 3950,
+  "text": "€615/tháng ≈ €7,380/năm",
+  "extra": "Cộng học phí thạc sĩ €3,950 cho người ngoài EU",
+  "src": "https://www.cameroun.campusfrance.org/en/node/218",
+  "srcName": "Campus France"
+ },
+ {
+  "country": "Thụy Điển",
+  "year": 11400,
+  "text": "SEK 10,656/tháng (2026), khoảng €11,400/năm",
+  "extra": "Chỉ khả thi khi được miễn toàn bộ học phí",
+  "src": "https://lnu.se/en/student/preparing-for-your-stay/living-costs/",
+  "srcName": "Linnaeus University"
+ },
+ {
+  "country": "Ireland",
+  "year": 10000,
+  "text": "€10,000/năm + học phí",
+  "extra": "GOI-IES trả đúng phần này và miễn học phí",
+  "src": "https://www.dbs.ie/international-students/international-non-eu-students/visa-information",
+  "srcName": "DBS, dẫn Irish Immigration"
+ },
+ {
+  "country": "Bỉ",
+  "year": 12744,
+  "text": "€1,062/tháng (2026–27) ≈ €12,744/năm",
+  "extra": "Chưa gồm học phí người ngoài EU",
+  "src": "https://www.uantwerpen.be/en/life-in-antwerp/visa-and-permits/visa/non-eea-nationals/sufficientmeansofsubsistence/",
+  "srcName": "University of Antwerp"
+ },
+ {
+  "country": "Hà Lan",
+  "year": 13569,
+  "text": "€1,130.77/tháng ≈ €13,569/năm (2026)",
+  "extra": "Chưa gồm học phí người ngoài EU",
+  "src": "https://studypath.nl/blog/cost-of-living-financial-proof-netherlands-2026",
+  "srcName": "StudyPath, dẫn IND"
+ },
+ {
+  "country": "Canada",
+  "year": 15500,
+  "text": "CAD 23,448/năm (từ 1/9/2026), khoảng €15,500",
+  "extra": "Cộng học phí năm đầu và tiền đi lại",
+  "src": "https://www.cicnews.com/2026/08/canada-hikes-funds-needed-by-study-permit-applicants-0879805.html/amp",
+  "srcName": "CIC News"
+ }
+]
